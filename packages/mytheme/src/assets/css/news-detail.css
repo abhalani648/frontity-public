@@ -1,0 +1,111 @@
+.news-title-box{
+    position: relative;
+    padding: 100px;
+}
+.full-width-img {
+    position: relative;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    min-height: 750px;
+    width: 100%;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    padding-bottom: 70px;    
+}
+.full-width-img .share-with{
+    background: #7DB1C7;
+    padding: 40px;
+    position: absolute;
+    top: -100px;
+    right: 150px;
+}
+.full-width-img .share-with .footer-link{
+    display: flex;
+    justify-content: flex-start;
+}
+.full-width-img .share-with  h3{
+    font-size: 36px;
+    line-height: 46px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.full-width-img .share-with  li a {
+    color: #fff;
+    font-size: 44px;
+    font-family: 'RedHatDisplay-Regular';  
+    line-height: 25px;
+    margin: 30px;
+}
+
+.full-width-img .share-with li a:first-child{
+    margin-left: 0px;
+}
+.new-page-detail{
+    position: relative;
+    padding: 100px 0px;
+}
+
+.new-page-detail h3{
+    color: #1A1818;
+    font-size: 22px;
+    line-height: 40px;
+    font-family: 'Graphik-Semibold';
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.news-form-section{
+    background-color: #7DB1C7;
+    position: relative;
+    padding: 115px 0px 50px 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+.news-form-section .page-title-white{
+   font-size: 50px;
+   line-height: 40px;
+}
+.news-form-section .form-group{
+   margin-bottom: 30px;
+}
+.news-form-section .form{
+    position: relative;
+    margin: 50px;
+}
+.news-form-section form{
+margin-top: 50px;
+}
+.news-form-section .form-control{
+    height: 70px;
+    border-radius: 0px;
+    padding: 30px;
+}
+.news-form-section textarea.form-control{
+    height: 150px;
+}
+
+@media(max-width:991px) {
+    .news-form-section .page-title-white {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .news-form-section {      
+        padding: 50px 0px 20px 0px;
+    }
+    .new-page-detail {
+        position: relative;
+        padding: 50px 0px;
+    }
+    .full-width-img .share-with {
+        background: #7DB1C7;
+        padding: 20px;
+        position: absolute;
+        top: -50px;
+        right: auto;
+    }
+    .full-width-img .share-with li a {
+        font-size: 30px;
+    }
+}

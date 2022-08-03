@@ -1,0 +1,46 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "a6c34d282f50552bb683",
+  "publicPath": "",
+  "outputPath": "C:\\fcustom-public\\build\\static",
+  "assetsByChunkName": {
+    "fcustom": "fcustom.module.js"
+  },
+  "assets": [
+    {
+      "name": "fcustom.module.js",
+      "size": 6665653,
+      "chunks": [
+        "fcustom"
+      ],
+      "chunkNames": [
+        "fcustom"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "fcustom": {
+      "chunks": [
+        "fcustom"
+      ],
+      "assets": [
+        "fcustom.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "fcustom",
+      "files": [
+        "fcustom.module.js"
+      ]
+    }
+  ]
+}

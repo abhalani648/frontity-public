@@ -1,0 +1,109 @@
+
+.contact-form-section{
+    position: relative;
+    padding: 100px 0px;
+}
+.contact-form-section .col-lg-8{
+    margin: 0 auto;
+    background-color: rgb(251, 247, 242, 0.5);
+    padding: 50px;
+}
+.contact-form-section .form-group{
+   margin-bottom: 30px;
+}
+.contact-form-section .form{
+    position: relative;
+    margin: 50px;
+}
+.contact-form-section form{
+margin-top: 50px;
+}
+.contact-form-section .form-control,
+.contact-form-section .form-select{
+    height: 64px;
+    border-radius: 0px;
+    padding: 5px 30px;
+}
+.contact-form-section .form-control::placeholder, .contact-form-section .form-select::placeholder{
+    font-size: 20px;
+    line-height: 30px;
+    color: #1A1818;
+}
+.contact-form-section .p-btn{
+    margin: 0px;
+}
+.contact-form-section .text-note{
+    font-size: 16px;
+    line-height: 30px;
+    color: #1A1818;
+    opacity: 0.5;
+    margin: 0px;
+}
+.contact-form-section .form-select {
+    margin-bottom: 30px;
+}
+.contact-form-section textarea.form-control{
+    height: 150px;
+}
+.contact-form-section h2{
+    margin-bottom: 30px;
+}
+.contact-form-section .radio-group{
+    display: flex;
+}
+.contact-form-section .radio-buttons{
+    margin-left: 20px;
+    display: flex;
+}
+.contact-form-section .radio-buttons .form-check{
+    margin-right: 20px;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Graphik-SemiBold';
+    cursor: pointer;
+}
+.contact-form-section .form-check-input:checked {
+    background-color: #FF8843;
+    border-color: #FF8843;
+}
+.contact-form-section .form-label{
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Graphik-SemiBold';
+}
+@media(max-width:991px) {  
+    .full-width-img .share-with li a {
+        font-size: 30px;
+    }
+    .contact-form-section {
+        position: relative;
+        padding: 30px 0px;
+    }
+    .contact-form-section .col-lg-8 {
+        margin: 0 auto;
+        background-color: rgb(251, 247, 242, 0.5);
+        padding: 0px 15px;
+    }
+}
+@media(max-width:550px) {  
+    .contact-form-section .radio-group {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .contact-form-section .radio-buttons {
+        margin-left: 0px;
+    }
+    .contact-form-section .form-label,
+    .contact-form-section .radio-buttons .form-check,
+    .contact-form-section .form-control::placeholder, .contact-form-section .form-select::placeholder{
+        font-size: 16px;
+        line-height: 26px;
+        font-family: 'Graphik-SemiBold';
+    }
+    .contact-form-section .form-control, .contact-form-section .form-select {
+        height: 45px;
+        border-radius: 0px;
+        padding: 5px 15px;
+    }
+}

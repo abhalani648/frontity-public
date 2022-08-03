@@ -1,0 +1,230 @@
+.divorce-box{
+    padding: 100px 0px;
+    position: relative;
+    margin-bottom: 120px;
+    overflow: hidden;
+    width: 100%;
+}
+.dis-bg-box{   
+    background: #7DB1C7;
+    padding: 90px;
+    margin-left: -130px;
+    position: relative;
+    bottom: -140px;
+    max-width: 975px;
+
+}
+.divorce-box .divorce-img-top{
+    position: relative;
+    left: -40px;
+    min-width: 800px;
+    width: 100%;
+}
+
+.dis-bg-box p{
+    font-size: 30px;
+    line-height: 45px;
+    color: #FFFFFF;
+    width: 100%;  
+    padding-bottom: 0px;  
+}
+
+.bg-tree-img{
+    position: relative;
+    background: url('../images/Home/tree-bg1.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.dis-content{
+    width: 97%;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
+.dis-content p{
+    font-size: 22px;
+    line-height: 40px;
+}
+
+
+.the-issues-section{
+    position: relative;    
+    width: 100%;
+}
+.divorce-right-section{
+    position: relative;
+    padding: 60px 0px;
+    margin-bottom: 100px;
+    overflow: hidden;
+    width: 100%;
+}
+.divorce-right-section .divorce-img-right{
+    position: relative;
+    right: 20px;
+    min-width: 810px;
+    width: 100%;
+}
+.divorce-right-section .row{align-items: center;}
+
+.divorce-right-section .case-bg-box{
+    margin-left: 206px;
+    position: relative;
+    padding: 0px;
+    width: 80%;
+}
+.divorce-right-section .case-bg-box  h2{
+    font-size: 26px;
+    line-height: 50px;
+    font-family: 'Graphik-Semibold';
+}
+.divorce-right-section .case-bg-box  ul{
+    list-style: none;
+    padding-left: 15px;
+    margin-top: 50px;
+}
+.divorce-right-section .case-bg-box  ul li{
+    position: relative;
+    font-size: 26px;
+    line-height: 36px;
+    margin-bottom: 14px;
+    padding-left: 48px;
+}
+.divorce-right-section .case-bg-box  ul li::before{
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 0px;
+    height: 4px;
+    width: 20px;
+    background: #ff8843;
+    transform: translate(0px, 15px);
+}
+
+.divorce-page .contain-about-box {
+    background: #7DB1C7;
+    padding: 144px;
+    position: relative;
+    margin-bottom: 40px;
+}
+.divorce-page .contain-about-box .sub-title {
+    text-align: left;
+    font-size: 30px;
+    line-height: 44px;
+    color: #fff;
+    width: 87%;
+}
+@media(max-width:1650px){
+    .divorce-right-section .case-bg-box {
+        margin-left: 100px;        
+    }
+    .divorce-page .contain-about-box {      
+        padding: 100px;
+    }
+    .dis-bg-box {       
+        padding: 60px;
+        max-width: 100%;
+    }
+    .divorce-box .divorce-img-top {      
+        min-width: 600px;
+    }
+    .dis-bg-box p {
+        font-size: 22px;
+        line-height: 38px;
+    }
+    .divorce-box {
+        padding: 80px 0px;
+        margin-bottom: 90px;
+    }
+}
+
+@media(max-width:1440px){
+    .dis-bg-box {       
+        bottom: -90px;
+    }
+    .divorce-right-section .case-bg-box h2 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .divorce-right-section .case-bg-box ul li {       
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .divorce-right-section .case-bg-box ul li::before {        
+        transform: translate(0px, 12px);
+    }
+    .divorce-page .contain-about-box .sub-title {      
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .divorce-right-section .divorce-img-right {        
+        min-width: 100%;
+        right: 0;
+    }
+    .divorce-box .divorce-img-top {
+        min-width: 100%;
+    }
+}
+
+@media(max-width:991px){
+    .dis-bg-box {
+        bottom: -40px;
+        margin-left: 0px;
+        padding: 40px;
+    }
+    .divorce-box .divorce-img-top {
+        min-width: 100%;
+        left: 0;
+        margin: 0 auto;
+        width: 100%;
+        right: 0;
+    }
+    .divorce-box {
+        margin-bottom: 0px;
+    }
+    .divorce-right-section .case-bg-box {
+        margin-left: 0px;
+        padding-left: 30px;
+        width: 100%;
+    }
+    .divorce-right-section {      
+        margin-bottom: 0px;
+    }
+    .divorce-page .contain-about-box {
+        padding: 50px 50px 150px 50px;
+    }
+}
+@media(max-width:767px){
+    .dis-bg-box {
+        bottom: 0px;
+    }
+    .divorce-box {
+        padding: 40px 0px;
+    }
+    .dis-content p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .dis-bg-box p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .divorce-right-section {
+        padding: 10px 0px 40px 0px;
+    }
+    .divorce-right-section .case-bg-box {
+        margin-left: 0px;
+        padding-left: 20px;
+    }
+    .divorce-right-section .case-bg-box {        
+        margin-bottom: 40px;
+    }
+    .divorce-page .contain-about-box {
+        padding: 20px 30px 20px 20px;        
+        margin-bottom: 0px;
+    }
+    .divorce-right-section .case-bg-box h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}

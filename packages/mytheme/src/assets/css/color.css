@@ -1,0 +1,13 @@
+--whitecolor: #ffffff;
+--primaryColor: #14818f;
+--primaryHoverColor: #1bbfc3;
+--secondaryColor: #333233;
+
+--grayColor: #787878;
+--blackColor: #000;
+
+--darkColor: #282728;
+
+color:var(--secondaryColor, #787878);
+
+

@@ -1,0 +1,566 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210.667" height="151.854" viewBox="0 0 210.667 151.854">
+  <defs>
+    <filter id="Path_1" x="70.554" y="79.61" width="15.605" height="15.237" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="117.406" y="52.619" width="15.023" height="15.053" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="117.427" y="52.608" width="15.005" height="15.012" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4" x="96.667" y="1.11" width="15.231" height="15.085" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_5" x="37.073" y="0" width="144.056" height="95.462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_6" x="115.37" y="76.341" width="15.787" height="15.059" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-6"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="104.757" y="75.276" width="25.613" height="16.065" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-7"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_8" x="116.156" y="76.224" width="16.434" height="15.24" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-8"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_9" x="106.337" y="76.759" width="40.194" height="18.335" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-9"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_10" x="69.973" y="79.125" width="15.66" height="15.125" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-10"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11" x="70.633" y="74.683" width="31.038" height="20.181" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-11"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_12" x="62.149" y="78.32" width="24.201" height="15.804" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-12"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_13" x="101.874" y="75.195" width="15.869" height="18.554" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-13"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_14" x="102.986" y="75.828" width="15.884" height="17.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-14"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_15" x="79.261" y="116.54" width="53.737" height="35.314" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-15"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_16" x="87.738" y="83.497" width="32.389" height="31.277" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-16"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_17" x="93.307" y="99.096" width="28.33" height="42.232" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-17"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_18" x="115.637" y="106.042" width="21.556" height="31.204" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-18"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_19" x="122.04" y="85.94" width="21.183" height="23.977" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-19"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_20" x="82.822" y="102.973" width="18.765" height="18.752" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-20"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_21" x="79.546" y="109.703" width="18.606" height="18.051" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-21"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_22" x="111.142" y="93.953" width="23.11" height="21.402" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-22"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_23" x="111.186" y="100.688" width="19.41" height="17.599" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-23"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_24" x="70.046" y="122.963" width="19.998" height="20.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-24"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_25" x="77.827" y="123.036" width="19.146" height="20.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-25"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_26" x="85.535" y="123.036" width="19.146" height="20.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-26"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_27" x="93.099" y="122.939" width="19.845" height="20.827" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-27"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_28" x="101.884" y="122.947" width="19.475" height="20.82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-28"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_29" x="110.05" y="122.962" width="19.62" height="20.707" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-29"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_30" x="118.716" y="123.036" width="18.646" height="20.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-30"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_31" x="125.909" y="122.962" width="20.022" height="20.707" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-31"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_32" x="134.06" y="122.938" width="19.201" height="20.828" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-32"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_33" x="146.442" y="122.963" width="19.998" height="20.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-33"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_34" x="154.223" y="123.036" width="19.146" height="20.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-34"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-34"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_35" x="166.919" y="123.036" width="18.751" height="20.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-35"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-35"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_36" x="174.088" y="122.963" width="19.999" height="20.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-36"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-36"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_37" x="181.893" y="122.963" width="22.244" height="20.706" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-37"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-37"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_38" x="41.308" y="88.988" width="18.258" height="44.866" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-38"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-38"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_39" x="48.491" y="88.988" width="18.258" height="44.866" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-39"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-39"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_40" x="79.099" y="99.74" width="28.576" height="34.548" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-40"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-40"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41" x="34.686" y="100.174" width="18.258" height="33.68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-41"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-41"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_42" x="34.18" y="93.767" width="18.692" height="18.692" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-42"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-42"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_43" x="55.254" y="100.174" width="18.258" height="33.68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-43"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-43"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_44" x="54.747" y="93.767" width="18.692" height="18.692" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-44"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-44"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_45" x="60.814" y="99.898" width="31.657" height="43.771" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-45"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-45"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_46" x="16.725" y="88.989" width="29.999" height="44.865" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-46"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-46"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="0" y="89.17" width="17.606" height="44.684" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-47"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-47"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_47" x="0" y="89.17" width="30.349" height="32.553" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-48"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-48"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_48" x="176.187" y="99.74" width="28.576" height="34.548" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-49"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-49"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_49" x="137.86" y="94.168" width="25.027" height="40.229" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-50"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-50"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_50" x="166.108" y="99.741" width="24.087" height="34.113" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-51"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-51"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_51" x="121.31" y="100.211" width="31.342" height="34.113" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-52"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-52"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_52" x="148.274" y="100.211" width="31.342" height="34.113" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-53"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-53"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="107.616" y="89.17" width="17.606" height="44.684" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-54"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-54"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_53" x="107.616" y="89.17" width="30.349" height="32.553" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-55"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-55"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_54" x="190.964" y="100.472" width="19.703" height="19.7" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-56"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-56"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Logo" transform="translate(7.5 4.5)">
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_1)">
+      <path id="Path_1-2" data-name="Path 1" d="M111.661,125.934c-.237.04.4.237.552.237-.08-.237-.394-.158-.552-.237" transform="translate(-33.55 -41.82)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_2)">
+      <path id="Path_2-2" data-name="Path 2" d="M185.745,83.237a.213.213,0,0,1-.023.053c.016,0,.025-.02.023-.053" transform="translate(-60.82 -26.12)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_3)">
+      <path id="Path_3-2" data-name="Path 3" d="M185.761,83.22h-.005l0,.012s0-.009,0-.011" transform="translate(-60.83 -26.11)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_4)">
+      <path id="Path_4-2" data-name="Path 4" d="M152.916,1.755a1.232,1.232,0,0,0,.231.085.656.656,0,0,0-.231-.085" transform="translate(-48.75 3.85)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_5)">
+      <path id="Path_5-2" data-name="Path 5" d="M187.417,63.982c.252-.455-.636-.553-.158-.869a3.518,3.518,0,0,1-1.975-.711c.145-.207-.345-.363-.473-.4.057-.186.771-.118.473-.315-.177-.119-.51.022-.671.118-.638-.823-2.23-.9-3.158-1.382-.9-.461-.563.479-.908.909-.647-.046-.946-.78-1.461-1.066-.052-.4.492-.382.75-.356.283-.6,1.257-.373,1.264-1.184,0-.21-.056-.666-.356-.632-.083-.405-2.665-.162-2.8-.671-.106.689-.654-.143-.751-.355-.334.5-.776-.7-1.184-.632-.023-.009-.066-.05-.066-.027l.066.145c-.408-.1.253.532-.237.553-.309-.421-.443-.694-.119-1.184.092.015.921.126.434,0-.083-.208-.7-.2-.434-.513,1.187.4.505-.484,1.068-.474-.038-.346-.6-.24-.829-.237.331-.4-.534-.48-.75-.434-.377-.278.247-.126.355-.315-.034-.271-.484-.2-.434-.474l.073-.294c.215-.754.219.621.834.412l-.434-.553c.045-.743-.532.043-.948-.2-.876.783-1.082-.687-1.658.2a3.84,3.84,0,0,1-.909-.277c-.294.674-1.079-.278-1.223.553-.766-.381-1.525.073-2.251.317.041.951-.647.7-1.264.948-.742,1.1-1.986,2.376-2.29,3.672-.4.143-1.623,0-1.46-.473-.335.107-.687-.457-.829.118a2.487,2.487,0,0,0-2.014-.237c-.164-.571-1.561-.272-.829-1.106-.546.453-.458-.559-.869-.553l.079.122c.226.386-.5-.211-.474.115-.422-.652-.132-1.109.592-1.264l.132.106c.178.143.054-.089.145-.3l.4.118a1.475,1.475,0,0,1,.118,1.3c.4.182,1.463.965,1.224-.119.376-.271,1.467.437,1.778,0,.074-1.223,1.032.56,1.539-.434.228-.444.44-.864.159-1.343-.949-.374.319-.862-.434-1.421.074-.3.381-.37.631-.474.58-.967-.309-1.644-.4-2.567l.237-.039.04-.316c.6-.108.38-.564.553-.987.407-.166.182.2.316.4.766,1.089,4.926,1.079,6.081.553.915-.418,1.718,1.01,2.644-.435-.129-.1-.313-.319-.157-.474.467-.045.014-.2-.119-.236-.315-.43-1.015-.377-1.263-.869.077-.473-.594-.454-.592-.948.463-.288.955-.747,1.541-.513.083.241.585.221.789.2l.158.315c-.076.393.007.791-.039,1.185a8.124,8.124,0,0,0,1.894.513c.151-.267.539,0,.711-.276-.188-.183.428-.5-.039-.514-.159-.758-1.255-.875-1.816-1.223-.314-.686,1.432-.455.474-.908-.054-.525.456.054.67-.2-.2-.257-.6-.407-.67-.75a1.222,1.222,0,0,1,.71-.434c.009-.358.474-.982-.4-.789-.056-.085-.138-.336.079-.277.357.1.057.037-.2-.158l-.314-.009c-.92-.07.625-.585.314-1.1.006-.6-.956-.406-1.3-.711-.513-.073-3.274-.868-3.239-1.342a7.351,7.351,0,0,1-3.039-.158c-.389-.066-.828.56-1.185.2a2,2,0,0,0-1.383.79c-.278-.112-1.117-.825-1.1-.08-.339-.126-.382.2-.317.434-.279.25-.267.783-.591.948.049-1.327-3.354-.554-3.989-.671-.481-.454-.688.469-1.184.434-.5-.5-.237-1.078-.08-1.658.2.1.3-.224.316-.356-.284.147-.525-.586-.947-.553.211-.484,1.365-.4.947-.987.4-.38-.353-.441-.276-.79-.069-.116-.114-.369.118-.316-.2-.1-.154-.511,0-.632.965-.754.157,1.488,1.738,1.3.268-1.171.838.7,1.184-.513.185.278.433.073.4-.2.4-.512.654.509-.078.79.054.223.195.622.473.632.124-.255.231-.587.513-.711,0,.2.1.537.355.316l.158.118c.03-.915.828.135,1.264-.079a2.286,2.286,0,0,0,2.252,1.106c.18-.3.59-.338.433-.79-.733-.329-.307-1.664-1.105-1.738-.17-.4-.8-1.276-.118-1.579-.056-.023-2.007-2.293-2.25-2.567a11.035,11.035,0,0,1,2.369-.2,4.665,4.665,0,0,0-.513,1.421c-.034,1.679,4.945,1.212,5.567.316.429-.616-1-1.534-1.263-1.975.282-.2.162-.625.119-.908-.822-.082-2.874,1.334-3.476.829.357-.514-.27-1.062-.671-1.3-1.22.083-.31-1.18-.948-1.619-.552.16-1.121.506-1.7.237-.2.11-.4.474-.671.356-.206-.386-.685.033-.751-.474.482-.186-.072-.416-.276-.474.052-.078.238-.238.276-.039l.158-.356c-.525.235-.351-.345-.594-.592.149-.812.81-.05,1.264-.158a6.087,6.087,0,0,0,3.554.948c.45-.307,1.361-.109,1.185-.948s-1.12-.685-1.579-1.224c.146-.4.612-.537.75-.948.527,0,.685.482,1.342.435,1.773-.127,2.111-1.219.357-1.738-.927-.274-.243-.743-.592-1.3-.815.544-1.525-.367-2.33-.119-.5.154.161.546-.158.553a1.2,1.2,0,0,1-.316-.592c-.383-.139.008-.531.079-.75-.518-.407-1.454-1.62-1.541-1.62-.314-.353-.076-.838.119-1.185a.719.719,0,0,0-1.105,0c-.186-.055-.082-.266,0-.355-.034-1.047-1.035-.252-1.185-.948a2.507,2.507,0,0,1-1.856.592c-.173.084-.336.286-.2.474l-.2.237-.2-.2.094-.121c.475-.638-.5.258-.726-.233a1.155,1.155,0,0,1,.04-.948c-.069-.887-.7.18-1.105-.119-.391.463-1.7-.144-1.3.908.379-.241.824.393,1.1-.079.091.159.8.317.4.553a9.261,9.261,0,0,1-1.343.869c-.493-.332.339-.751.2-1.185-.229-.154-.46.264-.75.118-.291-.518.1-.947-.237-1.421-1.142.479-2.433.418-3.515,1.065a7.933,7.933,0,0,1,.039.948c.086.173.323.522.553.355.369.033.684-.588,1.026-.355a2.225,2.225,0,0,1-1.342.948c-.147.424-.527.16-.828.237a5.966,5.966,0,0,0-.632,1.264,6.422,6.422,0,0,0-2.409-1.5c-.125-.231-.5-.568.04-.592-.571.037-1.054-.354-1.62-.355-.074-.58-.876-.416-.947-.829-.059-.336.771-.255.947-.276a11.1,11.1,0,0,0,4.226,1.619c.3-.257.076-.919-.039-1.264.551-.011-.064-.422-.239-.473a7.107,7.107,0,0,0-1.144-.079.7.7,0,0,1-.277-.79c-.82.075-.97-.87-1.7-.948,0-.623.656-.884.909-1.382-.336-.2-.266-.875-.672-.908a5.558,5.558,0,0,0,2.093-.355c.338-.147,1.29-.382.986-.987-.6-1.2-3.474-.362-4.423-.118-.838.215-.135-.908-.947-.553.076-.351-.271-.637-.513-.829l.473-.316c-.121-1.32-1.488-.494-.236-2.133-.778-.459.735-1-.4-1.185-.078-1.213-2.015-.97-1.974-2.29-.743-.414-1.154.686-1.737.79a2.333,2.333,0,0,0,.039.711,12.985,12.985,0,0,0,2.567,1.936c-.613,2.171-2-.572-3.239-.2-.379-.329.112-.546.079-.908-1.545-.009-.249-.636.316-.711-.18.012-.624-.032-.237-.277-.794-.008-1.014-1.435-1.857-1.224-.741.186-.473,1.429.2,1.54-.257.986-1.585.085-.157,2.567-.484.563-1.741.583-1.738-.315.345-.4-.357-.973-.553-1.343-.436-.819-1.628.975-1.777,0a1.858,1.858,0,0,0-.987.829c.6.973-.777.649-.908.829-.156-1.008-.683-1.9-.908-2.883-.109-.477,2.739-.874,3.159-1.619.592-.267-.034-.755,0-1.145-.522-.1-1.058-.065-1.579-.158-.473.439-.838-.281-1.3-.157-.228-.559-1,.549-1.183.71a2.134,2.134,0,0,0-1.936-.394c-.579-.41-1.786.011-2.448.079-.453-.609-.429.52-1.382.118.046.5-.472.345-.278-.118-.573-.488.361-.4.238-1.027-.161-.827-.874-.673-1.422-1.066-.63.225-.909-.59-1.5-.592-.145.126-.331.345-.276.553-.081.152-.27.3-.434.158a4.579,4.579,0,0,1-1.5.4l-.005.287c-.058.8-.688-.387-1.18-.09l.434.355a3.044,3.044,0,0,1-.474,1.027c-.347-.539-1.087-.553-1.46-1.106-.262-.387.054-.381.355-.315.034-.091.111-.453-.118-.355l-.315-.355a1.062,1.062,0,0,1,.872-.244.573.573,0,0,1-.32-.309c.345-.4-.637-.078-.592-.513-.5.552-.6-.394-1.065-.277-.217.515-.729.821-.869,1.383-.567.224-.217.962-.633,1.3a.78.78,0,0,0,.474.553,1.387,1.387,0,0,1-.869.079c-.435.114-.161.621-.4.869a2.229,2.229,0,0,0-2.131-.671c-.238-.18-.626-.65-.949-.632-.371.02-1.254,1.693-.316,1.7A9.923,9.923,0,0,0,112.113,7.2l-.553.237c-.066.227.382.493-.04.592-.07-.555-.876-.223-.869-.711.412-.571-.447-.958-.315-1.461l-.435-.2.04-.2c-.573-.657-1.078-1.893-2.171-1.5.466,1.23-1.249.113-1.658.632.552.656-.917.46-1.067.908-.223.664-.892,1.183-.987,1.817-.125.136-.571.519-.513.04-.838-.762-1.622-1.739-2.8-1.936-1.841,2.976-.475,2.47-.473,5.016l-.237-.04c0-.5-1.127-.855-.592-1.343-.148-.052-.937-1.5-1.264-.75l.158.158c-.175.452.668.654-.039.869-.075-.205-.4-.26-.356-.513-.888-.51-1.67-1.773-2.843-1.145a2.675,2.675,0,0,0-.355,1.382c-1.312.205-3.183-.331-3.317,1.58.744.5,1.931.5,2.8.908,1.039.487-.15.975.316,1.737l.236.04a10.775,10.775,0,0,0,.711-1.066c.142.235-.044.616-.157.829-.335.179,0,.5-.158.75-.485-.114-.778-.631-1.3-.632a2.2,2.2,0,0,0-1.462-1.3c-.852.518-2.148.439-2.843,1.185-.3.321.112.8-.2,1.106a1.733,1.733,0,0,0,1.383.315c.96.454-.589.549-.513,1.145-.15.3-.366,1.067.118,1.185.864-.451,1.675.5,2.448.04.841.649,2.186-.565,2.685.711.35.893-1.289,1.347-.987,2.172.24.656,1.408-.1,1.935.394.482.451-.7.439-.553.987.2.031.471.133.513.356h-.118c-.207-.233-.977,1.074-1.264,1.184a.249.249,0,0,0-.4.119c-.5-.325-1.117-.075-1.658-.277-.513.312-1.386.019-1.343.908-.142.17.417.392.08.434-.685-.654-.441.64-1.106.474-.375-.093-1.531-.433-1.54-.2l-.2-.2c-.4-.072-1.98-.018-1.422.79-.438.3-.553-.011-.947-.159.152-.408-.974-.535-.4-.869-1.392-.266.3-1.06-.158-1.816L85.5,22.2c-.337-.119-.862.209-1.105-.158-.493-.03-.669,1.946-.987.79a.7.7,0,0,0,.079-.87c-.851-.431-.609.639-1.027.988.6-.029,0,.554-.157.671.6-1.1-.9-.438-1.3-.79-.186.139-.673.293-.277.552-.04.542.423.974.79,1.3a3.078,3.078,0,0,0-.671.474c.195.778,1.24.745,1.58,1.422-.791.333.394,1.121-.513,1.342l-.119-.4a1.935,1.935,0,0,0-1.461-.118c-.082.013-.716.316-.316.277l.04.315c.374.171.544.669.987.711.007.465-.716.2-.671.671.513.58-.343.621-.513,1.027-.335.013-.143-.518-.2-.711a.66.66,0,0,0-.79.118,4.565,4.565,0,0,1-.632-1.224c-.4.269-.464,1.14-.948.751.045-.47-.607-.245-.711-.633-.427-.009-.915-.992-1.264-.236.362,1.159-2.323,1.82-.632,3.316,1.267-.006.032,2.149,3.238,2.015.171.286.523-.072.751.157,1.375-.321,1.041,1.3,1.658,2.053.485.6,1.042.415,1.5.869.023.178,1.469,1.324.473,1.461-.074.272-.272.606.157.671-.061.512-.539-.005-.789.04-.329.059-.1.534-.434.592-.536.094-.858-.209-.711-.75-.327-.1-.357-.819-.75-.592-.181-.047-.085-.238,0-.316-.325-.121-.464-.684-.829-.829.209-.446.622.291.711-.118l.118-.75c-.236.548-.886.446-1.343.632l-.236-.276c-.266-.042-.231.359-.2.513l.474-.2c.31.371-.394.495-.513.75a.8.8,0,0,1-.79-.119c-.216.313-.624.47-.908.711-.18-.263-.166-.833-.592-.829.136.35-.236.787-.04,1.066.211.072.073.275-.039.355-.052.662.369-.066.632.119.433,1.168-.952.487-1.066,1.3-.179.042-.458.169-.434.394a1.281,1.281,0,0,1-.83-.434c.047-.567-.4-.288-.67-.553h.315c.2-.393.767-.223,1.026-.553-.093-.363.333-.719.04-1.106a13.62,13.62,0,0,0-2.764-1.383c-1.243-.34-2.878.98-3.909,1.541-.62.337-2.644.214-2.488.79-.417.432-.536-.439-.948-.355-.123.025-.436.486-.119.632-.235.241-.323.633-.671.75-.321-.176.226-.331.04-.513-.29-.284-1,.049-1.342.08-.039.451.4.91.671,1.223.718.818-.551.9-.553,1.62-.692.035-.585.745-.711,1.224,1.737.752,3.375,1.972,5.331,2.053-.118.167-.238.438-.118.632-.37,0-2.434.007-1.659.593-.437.166.192.393.2.671-.856-.042-1.376-1.164-1.975-1.659l.158-.237c-1.312-.347-.941.388-1.58.987-.5.473-.192-.38-.513-.592-.937-.618-1.6-1.283-2.843-1.146.138.374-.289.55-.119.948a5.753,5.753,0,0,0,2.843,1.027c-.624,1.51,1.215,1.142,1.9,1.856-.083.57-.527.059-.671-.158-.6.178.137.586-.119.948.051.114.247.4.356.158.142.347.863.644.119.908-.245-.327-.891.467-1.185.553a9.281,9.281,0,0,0,0,1.422,1.279,1.279,0,0,1-.987.237c.071.357-.388.511-.316.869-.5.125-.373-.357-.592-.592a.952.952,0,0,0-.277,1.066.778.778,0,0,0,.711,0c-.064.292.345.841,0,1.027-.561-.334-.4.492-.711.592.343-.147.722.661.75-.079l.355.118c.639-.528,1.29.641,1.856-.158-.129-.774,1.105.015,1.224-1.263.021-.238.488.071.315-.159l-.237-.276c.223-.666.471.026.75.158a2.291,2.291,0,0,0-.75-1.5c.215-.126.238-.491.237-.711.662-.005.213,1.151.948,1.185.155.307.863.46,1.185.553.877.252.03.8.394,1.066.456.339.38.319-.157.513.226.267,1.024,1.3.908,1.383.268.375-.545.656-.039.987.623.409,1.673-.168,2.132.711.293-.715.916.324,1.422-.04-.323-.984.709-.429,1.144-.315.363-.328.827.056,1.224-.159.193.275.042.606.079.908.107-.181.406-.549.632-.315l.474-.2.277.079.236.277c.232-.671,1.014-.078,1.462-.317.333.333.879.24,1.3.237a.9.9,0,0,0,.592.237l.039.2c.255-.41.612.023.908-.237.108-.686.958.015,1.066-.632l.789.277c-.66.615.245.974.474,1.5-.84-.231-1.476-.055-1.658.869a2.047,2.047,0,0,0-.711-.394c-.069-.4-.771-.485-.513-.948a1.324,1.324,0,0,0-1.066-.316c-.531.685-1.465-.036-1.975.553-.307.356.173.577.158.869-.022.427-.447.274-.671.118-.183.585-.916.891-1.185,1.461-1.879-.353-.928.528-2.33.474-.23-.009-.5-.377-.632-.2.453.078.112.45-.079.592a1.46,1.46,0,0,1-.475-.474c.1.036.871.285.4-.079.12-.753-.783-1.005-1.3-1.264-.748.451-1.159-.505-1.9-.394-.266.36-.544.946-1.066.948-.391.441-.8,1.768-.949,1.737a1.224,1.224,0,0,1-.67,1.185c.327.4,1.227.287,1.065,1.027.129.1.543.332.554,0,.465-.1-.109.444.118.553l.277-.079c.317,1.179.65.123,1.145.158.656.481.877.3,1.579.513-.238.928,1.413.06.711.948.215.755,3.266,1.352,2.172.079a1.108,1.108,0,0,0,.987-.2l.2.474c.272.12.171-.559.513-.592l.158.316c.184-.363-.43-.608-.2-.948.389.1.812-.027,1.185.158-.254,1.262-2.012,2.973-.04,3.159.882-.538,1.1-1.725,2.093-2.132.376-.5,1.049-.62,1.5-1.027a.577.577,0,0,1,.276.79c-.987.618-1.006,2.068-1.856,2.843.267.348.23.811.434,1.185.351.08.87.157,1.066-.236,1.278-.291,3.319-2.4,4.581-1.066-.252.937.211.781.671,1.3.048-.231.2-.548.474-.553-.006-1,3.206-.338,3.83-1.422.654.126.1-.8.632-.869l.118.633c-.362.187-.311.745-.711.908a.783.783,0,0,0,.276.79c-.039.408-.849.815-.355,1.185.251-.027.54.3.75.04a6.258,6.258,0,0,1,1.224-1.462c.321.376.4-.771,1.066-.394.018.542.666.126.869-.04.348.023.427.387.355.671.065-.1.285-.295.316-.039,1.054.058-.677,2.476.435,3.317h.513c-.145-.413.527-.361.2-.711.348-.135.16-.712.553-.829.591.44.779-.442,1.184-.632.107-.862,2.319-1.408,3.042-1.264.345-.785,1.139.021,1.855-.473-.116-.505.71-.288.632-.79-.27-.21.346-.343.118-.632.115-.22,1.077-1.564,1.1-.75a1.178,1.178,0,0,0,1.62-.513c-.312-1,1.005-.388,1.343-.947.289.451-.681.278.2,1.342.432-.6,1.342-1.151,1.067-2.014.645-.486.75-1.5,1.58-1.777-.013-1.742,4.033,2.618,4.581,3,.068.321.177.785.552.869,1.262,2.83.778,6.012.079,8.924-.363,1.515-.758-.488-1.224-.671-1.272-.5-.377,1.972-.2,2.33-2.864.818-3.247-1.656-4.145-1.3-.043.42.183.566.237.908.08.512-.245-.18-.276-.276l-.434-.119c.386.731.841,1.765,1.659,2.093a15.813,15.813,0,0,1-.829-2.25,11.953,11.953,0,0,0,2.013,1.658l.078-.158a15.634,15.634,0,0,0,5.213.79c-.245-.574-1.143-.154-1.421-.711.186-.128.691-.254.749.079.806.08.69-.764,1.106-1.185,1.766,1.108,4.317.843,6.317,1.264a13.279,13.279,0,0,1-3,.079l.08.237c1.529.042,3.57.533,4.816-.632-.13-.486-.391.259-.671.158-.312.135-.876.345-1.066-.079-1.425-.243-2.881-.255-4.305-.513l.278-.434a32.937,32.937,0,0,0,4.381-.553V77.96c-.475-.145-.983-.051-1.46-.2.3-.87,1.5-.54,1.185-1.658.348-.221.339.462.71.355a21.728,21.728,0,0,1-2.013-5.212c-.078-.287.056-.6-.039-.829.517-1.005-.072-3.044,1.578-3.12,1.277-1.027,3.763-.8,5.332-.75,1.454.049,3.014-.429,4.423-.2.272.046.427.606.672.158a1.728,1.728,0,0,0,.986-.236c.133.358.394.133.514-.079.039.234.323.628.078.829.041.343-1,.975-1.343,1.145s-.42-.286-.631-.435c-.744.048-.046-1.075-.672-1.106-.528,1.192-.241,2.307-.513,3.475-.119.51-.92.6-.751,1.263,1.066.229,1.725-.393,2.567-.908.077-.351.68-.13.632-.592.249-.133.281.15.236.316a2.083,2.083,0,0,0,1.066.671c.218.329,1.017-.078,1.383.039a15.2,15.2,0,0,0,1.816-1.026c0,.487.73.331.869.75a4.847,4.847,0,0,1,1.343.276c1.023.257-.08,1.09.276,1.659a2.278,2.278,0,0,0,.79.118c1.251-.264.416-1.362.712-1.658.532.2.222-.14.473-.4.252.041.26-.229.2-.4.374.154.455-.664.79-.157.19-.014.463-.119.436-.356a1.291,1.291,0,0,1,1.144,0c-.086.227-1.079.2-1.421,1.106.369.241.92-.1,1.185.355.322.009.3-.187.473-.4.281.272,1.051-.966,1.027-1.026h.4c.124-1,.864-.895.632-.237a6.406,6.406,0,0,0,2.014.158c.1-.268.473-.3.474-.632.343.1.662-.608.908-.237.748-.406-.037,1.105-.08,1.3.635.211.591,1.077,1.225,1.263.042.528.639.793.749,1.3.443.312.875.771,1.462.514.526-.827,1.649-.506,2.291-1.146a2.1,2.1,0,0,0,1.263.316c.462-.274,1.786-.244,1.855-.947.082-.825.359-.19.908-.08.181-.156.288-.554.593-.473-.119.135,1.682.994.474.75-.272.264-.793.27-.79.75.291.255.85.532,1.184.2.505.518.477-.463.87-.593.682-.224,2.515-.069,2.881-.71.159-.277.24-.868-.118-1.027,1-.1-.019-.494-.316-.592.235-.477-.881-.082-.989-.514l.2-.079c.02.005.972.191.592-.04.326-.18.625.185.947.04,1.242-.558,1.384,1.338,3.239.2.468-.289-.333-.207-.04-.514l-.237.04a5.554,5.554,0,0,0,.277-1.185l.2.039c.071.427.3.426.632.238l.072-.152c.064-.212-.324.092-.35.112l-.079-.434.317.118c.109-.117.355-.5,0-.473.271,0,.195-.4.473-.355-.192.5.413-.2.474.315.279-.032.4.272.671.237.1.056.326.233.158.355l.284.094.188.07c.572.233-.928-.014-.374.456l.178.129c-.044.034-.391.372-.119.356.217-.094.5.072.671.2a2.011,2.011,0,0,1,2.092.277c-.055-.745.661-.4.237.079l.4.158c.162-.3.546-.169.829-.4.253.369.73-.042,1.067.159-.232-.31.6-.131.71-.435.5.175.106.554-.157.712a1.692,1.692,0,0,0,1.184.276c.114.283.44.139.632.04-.913-.389.4-.36.276-.869l.131.087c.321.2-.114-.249-.052-.521.139-.606.724-.005.67-.514.45-.236.337.4.711.356.44-.6.436.408.909-.039.29.136.629-.278,1.026,0,.145-.334.589-.258.869-.4l-.158-.277c.082-.473-.5-.439-.553-.79-.111-.128-.353-.315-.513-.158-.36-.274-1.109.041-1.264-.513.341.017-.066-.4.356-.316.274.052.706.69.947.474-.4-.62-1.2-.606-1.579-1.145a2.334,2.334,0,0,1,.75.04l.355-.513a.839.839,0,0,1,.671.236c.226-.133,1.185.573.751-.157.42-.036.809.155,1.223.157.161-.1,2.5-.042,1.422-.908M161.276,26.231c.039.316.237.474.474.711-.435.079-.592.237-1.026,0,.4-.2-.079-.632.552-.711m-2.921,9.517c.236-.434.986-.118.828.2-.315-.315-.946.2-.828-.2M68.637,52.135a.318.318,0,0,1-.355-.157c.118-.316-.316-.513-.514-.632-.039-.2.553-.908-.039-.553-.276-.316-.829-.632-.829-1.027.394-.118.434.158.592.394-.119.435.552.04.671.4.079-.039,0-.118.04-.236.2.434.671.592,1.224.711.119.553-.671.513-.79,1.105M69.821,41.71a.775.775,0,0,0-.948.474v-.079l-.2.118c.111.09.223.275.078.394-.28-.124-.506.216-.592.435.482.394-.45.489-.158.987-.3,0-.48.311-.789.276v-.2c-.752-.631-1.758-.824-2.528-1.421,1.095.118,1.86,1.169,3.041.75.289-.435-.663-2.542.711-1.58a1.46,1.46,0,0,0-.632-.829c.315-.209.86.838,1.052.272a1.5,1.5,0,0,0,.054-.272c.156-.709,1.269-.094,1.7-.593.052-.3.379-.688,0-.908.758.416,1.63-.095,2.41.236-.322,1.185-1.694-.472-2.251.908-.178.442-.793.525-.948,1.027M72.7,57.585c-.157-.08-.4-.277-.4-.435.2-.118.4.079.633,0-.04.118-.08.355-.238.435m1.383-4.107c-.235.2-.443.513-.79.474a1.1,1.1,0,0,0,.118.868l-.473.119c-.17-.171-.049-.444-.356-.473l-.118.315c-.09-.152-.3-.348-.474-.2a5.861,5.861,0,0,0-.632-.513c.309-.2,1.014-.216,1.185-.553-.126-.252-.49-.183-.671-.039-.131.736-.505-1.029-.711-.316h-.158v.355c-.683-.168-.449-1.189.04-1.066.215.252.586.147.829.355.317-.179.487-.782.908-.4.352-.159.231-.743.632-.75.208,0,1.877.061,1.777.4-.719.077-.081,1.5-1.106,1.422M73.849,49.1c-.118-.04-.829.157-.592-.277-.236-.355.553-.08.592.277m1.3-2.8c-.315.158-.2.553-.315.79-.355-.157-.948.513-.75-.157.473-.159.592-.79,1.027-.75a5.611,5.611,0,0,0-1.658.315.341.341,0,0,0-.034.017.3.3,0,0,1-.139.182c-.058.265.145.66-.3.63.276.276-.119.316-.277.4-1.026.355-.118-.514-.2-.79.119-.446.529-.109.775-.236a.253.253,0,0,1,.139-.182.709.709,0,0,0,.034-.136c-.356-.553,1.027-.118.276-.592-.4-.04.552-.158.592.119-.04,0-.04.039-.079.039.2.2,1.5-.4.908.355m3.041-1.659c-.5,0-.6,1.379-1.145.553-.582.281-.286-.575-.316-.829.475-.1.927-.425,1.422-.2.574-.31-.91-.394-.75-.751.829-.15,1.123,1.053,1.975.83.456.881-.979.157-1.185.394M80.286,39.5c-.356-.158-1.185.039-.987-.474,0-.355.948-.434.4-.079.2.276.711.079.592.553m-.672,29.459a.261.261,0,0,1-.236.039c-.039-.276.276-.552.2-.79.513.2-.079.435.039.751m-.79-3.4c-.037-.252.306-.263.474-.236.3-1.322.705-.272-.158-2.013.016.024,1.231.592.671,1.144.144,1.237.447,1.112-.987,1.106M112.35,77.013h.2c-.039.553.868.869.474,1.383a.653.653,0,0,0,.315.513c.079-.04.2-.04.237.039-.237.2-.671.079-.987-.039a1.68,1.68,0,0,1-.237-1.9m-.592,2.764a1.253,1.253,0,0,1,1.422.079,8.52,8.52,0,0,1-1.422-.079m1.343-.434a.661.661,0,0,1,.868.513,1.191,1.191,0,0,1-.868-.513m9.24-3.436c-.039.238.355.435.159.553a.612.612,0,0,1-.159-.553m-.592-2.211c.079.711.553,1.342.553,2.092-.118-.118-.474-.434-.118-.592-.119-.236-.593-.592-.316-.869a1.442,1.442,0,0,1-.119-.632M157.8,44.712c.2-.08.75.236.237.355-.2.435.552.277-.08.474-.354-.079-.2-.592-.157-.829m-.821-4.916a2.173,2.173,0,0,0,.149.176c0,.2-.276.75.276.632-.355.158-.552.75-.79.118-.987-.118,0-.553.238-.711.226-.023.154-.173.126-.216-.013-.018-.009-.015,0,0m-.917-10.722c-.039-.435.355,0,.513-.316.332.073.319.422.284.757a.1.1,0,0,1,0,.114.039.039,0,0,1-.037.034.258.258,0,0,1-.046.042c0-.035.023-.039.046-.042a.4.4,0,0,0,.037-.034.07.07,0,0,0,0-.042c0-.024,0-.048.007-.072-.073-.126-.387-.226-.442-.362-.157.078-.079.315-.434.236-.2-.276-.553-.79.079-.315m-1.9.79c.784.231.211.692-.2.434-.109-.216-.022-.362.2-.434m-.473,1.618c.252.081.758.429.711-.118a.825.825,0,0,1,.513.394c-.7.578-1.665-.253-1.7-.75.149.256.747.016.474.474m-.632,8.411c.04.119-.079.276-.079.4,0,.079.2.04.079.157a.386.386,0,0,1-.158.357c-.158-.357-.158-.79-.553-1.066.277-.2.513.236.711.157m-6.554-19.31c.275.158.828.2.828.355-.4.2-1.421.4-.828-.355m-1.067,3.357c-.158-.118-.357-.473-.039-.632.355.2.078.4.039.632m.039-.869c-.434.118-1.222.236-1.5-.079.278-.236.987-.039,1.5.079m-1.7,17.967-.118-.434h-.159l-.157.315c-.088-.259-.231-.6,0-.829.414.1.649-.637.909-.04-.281.36.282.647-.475.987m.513.2c-.157.158-.118.434-.157.553-.12.078-.159-.079-.237-.119.039-.2.2-.473.394-.434m-2.211-23.3c.4.315,1.066.276,1.541.553,0,.078-.157.2-.04.276.4.158.4-.315.673-.276-.435.394.275,1.185-.633,1.106.119-.158.277-.356.158-.553-.948-.079-1.778.4-2.606.119,0-.632.671-.711.908-1.224m-2.921-4.581c.157.079.2.2.355.316-.119.2-.158.474-.277.632a.763.763,0,0,1-.078-.948m.67,4.265c.356.632,0,.632-.2,1.263-.4.316-.473-.394-.868-.316a1.436,1.436,0,0,0,1.065-.947m-3.355-5.332c.167.177.731.659.71.08-.018-.465-.771-.65-.315-1.185.422.255.472.867.948,1.066.257.492-.574.185-.673.4-.135.29.6.025.791.158a1.39,1.39,0,0,0-.435.671c-1.206.26-.633-1.3-1.066-.394-.4-.307-1.225-.08-1.7-.079.386-.618,1.219-.314,1.738-.711M137.86,27.02c-.237-.079-.474.513-.593.079.237-.118.356-.513.672-.394-.277,0-.2.315-.079.315m-1.54-4.106c.394-.2.868-.078,1.184-.316.079.118-.316.356.079.435,0,.2-.436.2-.671.2-.158-.04-.316-.276-.592-.316m.2,7.5s-.473-.316,0-.513c.316.118.079.355,0,.513m-2.566,16.348c-.316.119-.394.474-.553.553.119-.276-.2-.79.316-.79.2,0,.276.039.237.236m-.752-27.8c-.282.048-.666-.222-.828.159a1.1,1.1,0,0,0,.869.118c-.128.037-.647.255-.278.4-.467.878,1.041.338.515.671.322.187.357.248.315.632-.4-.118-.377.4-.631.554.489.363,0,.566-.04.987-.49.25.18.617-.2.829-.736-.109-1.486.2-2.213,0,.2-.659.912-1.023.989-1.737l-.4-.04c.052-.268.578-.85,0-.908-.721,2.039-2.335,3.566-3.752,5.133a25.013,25.013,0,0,1,1.421-4.027c.5-.052.891-.554,1.422-.434.489-.7,1.471-.973,1.618-1.9.219-.253.709-.705.672-1.066.158.053,1.293.5.512.632m-.275,28.708c-.158.04.118-.513-.237-.474-.277.435-.435-.513-.514.158-.237-.236-.632-.158-.829-.473-.316.079-.275.908-.593.711-.077-.4.356-.4.277-.869.316.2.4-.316.554-.04,0-.513.552-.157.71-.513.2.632,1.343.158.948,1.066.079.277-.158.355-.316.434m-2.8,8.214c.118.04.355.079.355.277.078.2-.2.434-.355.276.159-.2-.277-.434,0-.553m-1.146,2.488c-2,2.236-1.439-.616-2.25.394-.14.174-.191.554-.473.553-.48-.4-2.364.821-3.238.316-.572-.331-1.384.281-1.856.553.2.39-.3.613-.553.79-.283-.091.47-.373.04-.631.472-.252-.026-.807.631-.948-.269-.752.943-.465.671-1.066.123-.283.551-.219.79-.315.647.4-.286-.443-.475-.514.333-.13.9-.211.988-.632l.2-.079a2.8,2.8,0,0,0-1.341-.4c.613.08,1.209-.526,1.659-.473.288.034.4.429.552.632.5.679.917-.467,1.185.4l.355-.276c-.083-.154-.351-.27-.236-.474a.987.987,0,0,0,.987-.434l.119.355c-.22.107-.59.2-.672.474-.315,1.06-1.582.441-1.9,1.461.924,2.06,4.077-.173,5.292-1.145-.133-.328.243-.793.553-.474-.074.29.233.717-.118.908-.259-.116-.3.513-.475.078-.1.358-.716.476-.435.948m-2.013,2.685a.634.634,0,0,1-.356-.672c.079.2.789.474.356.672m-5.923,14.571c-.158.355-.356.237-.356-.078.158-.238.2,0,.356.078m-.435-9.556c0-.079.04-.712.158-.2-.118.039-.118.118-.158.2m.158,7.344c.315.237.315.672.4.948-.2-.159-.553-.592-.4-.948m.119-3.2c.039-.157.118-.355.158-.552-.04.2-.119.4-.158.552m.2,5.924c.158,0,.276.355.2.394a.308.308,0,0,1-.2-.394m.08-7.148a2,2,0,0,0,.158-.513,2,2,0,0,1-.158.513m-1.5-38.619c.158-.277-.237-.355-.316-.592-.118.08-.236.671-.315.237.039-.316.394-.316.632-.316.136.272.245.6.55.663a.244.244,0,0,1,.161.008.556.556,0,0,1-.161-.008c-.249.073-.227.622-.629.522.355-.118-.355-.474.079-.513m-.553,1.145c-.238.276-.355-.2-.4-.237.276-.119,1.106-.039.4.237m.276,5.686c.316.119.2-.473.513-.157a20.032,20.032,0,0,0-1.223,3.672,8.971,8.971,0,0,1-.277-5.015c.118.711,1.066.632.987,1.5m.711,1.738a3.891,3.891,0,0,1,1.184.079c-.394,0-.315.75.119.355-.711.75.711.513.158,1.3.394.83-.158,1.462-.4,2.251-.631-.276-.237.513-.592.671a4.5,4.5,0,0,0-.277.632c-.434-.434-.2-1.264-.592-1.659a7.352,7.352,0,0,1,.4-3.633m1.184-14.374c.158-.315,1.027-.474.553-1.066a1.867,1.867,0,0,0-.434-1.224c0-.276-.355-.474-.159-.75a1.367,1.367,0,0,0,1.42.592,14.764,14.764,0,0,1-.551,4.5c-.277.118-.514.315-.751.434a18.52,18.52,0,0,1-.079-2.488m2.134-11.806c.315.039.789-.277,1.223-.238-.316.238-1.263.829-1.462.474-.71.118.079-.236.238-.236m.275-1.7c-.275.2.119.794-.474.513-.143-.212.432-.525.474-.513m3.041,10.426c.674.118,1.747-1.48,1.224,0-.617,1.742-1.127,3.555-1.659,5.33-.491-.75-1.384-1.243-1.579-2.171-.7-.2-.129-.758.079-1.106.553-.922.478-2.311,1.935-2.053m-.04-2.252a.665.665,0,0,0,.287-.032c.438-.274.315-1.6.818-.561.12.159.436-.039.474.277-.2.4-.4-.118-.71,0-.226.056-.373.214-.582.284a.334.334,0,0,1-.287.032m1.184,8.016c-.472-.257-.472.53-.947.2.092-.844,1-.6.947-.2m-.236-.513c.335,0,.195-.793.75-.671-.009.477-.331.582-.75.671m-1.9,11.728c-.4.039-.079-.158-.119-.356-.2-.118-.4-.315-.553-.394.315-.434,1.026.2.986-.553-.355-.513.515-.158.672-.513-.948-.2.592-.592.118,0,.237.118.711-.079.908.118-.475.315-1.541.118-1.62.908.277.632-.158.315-.394.79m-1.343,5.686c-.386.257-.788-.567-1.145.119-.454.273-.374-.513-.789-.357a.713.713,0,0,0-.829,0c-.05.1-.545.861-.277.317.494-1,.671-2.379,1.9-1.343.527.067,1.312-.421,1.58.277.381-.073.463.287.75.434.128.253.4.616.236.908-.268-.02-1.735.455-1.342-.2Zm0-21.561a7.213,7.213,0,0,1-.841,1.736.728.728,0,0,1-.145.278c.038-.085.09-.18.145-.278.2-.716-.365-1.873.841-1.736m-.276-2.448a5.189,5.189,0,0,0,.829-.157c-.592.276-.79.908-1.224,1.263-.237-.513.2-.75.4-1.106m2.369,15.48c.434-.306,1.513-.2.671.394a.644.644,0,0,1-.671-.394m-2.093-24.167c.513-.473.987-.118,1.658-.158a8.648,8.648,0,0,1-1.658.158m-.473-1.3c.236-.2.473.079.513.277-.237.079-.553.079-.513-.277m-.791,23.772c-.275.315-.355-.158-.63-.2.039-.079-.119-.434.156-.474.593-.237.2.513.474.671m7.15,20.613c-.143.261-.62-.5-.948-.356-.08-.226.247-.158.355-.118.049-.357.387-.68,0-.987a2.378,2.378,0,0,0-.79.2,5.606,5.606,0,0,1,.989-.711c.075.255.748.369.592.671,1.071.974-.335.824-.2,1.3m.987-12.439c-.245-.334-1.315-.381-.987-1.027l.71.119a2.745,2.745,0,0,1,.316-1.382c.231.094.954-.255.947.157a1.006,1.006,0,0,0-.552.513l.118.474c.154-.219.453-.22.611-.35.026-.04.053-.078.082-.116a.4.4,0,0,0,.018-.205l-.12-.011c-.206-.022.041-.091.12-.186-.037.188.037.253.138.24a.637.637,0,0,1,.217-.122.393.393,0,0,1-.217.122.929.929,0,0,0-.157.162.263.263,0,0,1-.082.116,1.3,1.3,0,0,1-.493.547l-.2-.079c-.1.212,1,.883-.473,1.027m-.4-17.02c.473-.118.947-.2,1.144-.592.158,0,.2.04.237.158a2.136,2.136,0,0,1-1.381.434m1.3-1.065.237.157c-.419.289-1.041-.061-1.421.316v.158c-.464-.25-1.016.525-1.383,0a4.218,4.218,0,0,1,.908-1.106c.819.071,1.631-.082,2.447-.04a2.31,2.31,0,0,1-.789.515m-.75,6.16c-.736,0-.7.746-1.421.158-.235-.006-.163.34-.118.473.361.21-.831.406-.553-.039.342-.551,1.566-1.2,2.092-.592m1.224-12.636c0,.355.4-.119.356.276-.672-.513-.237.75-.83-.04.671-.157-.118-.711.079-.79-.158-.078-.118-.316.04-.316.434.119.869.593.355.869m-.474-5.016h.02c.013-.01.03-.015.059,0h-.059c-.023.017-.034.055-.059.08.118.2.592.078.4.394-.514.118-.158.632-.514.908-.592.158-.749-.118-1.264-.316.277.2-.315.237-.236.356-.157-.158-.553-.475-.829-.158,0-.08-.079-.119-.119-.2-.078,0-.118.079-.157.118.355.316,0,.277-.277.277-.237-.079.079-.158.04-.277a.754.754,0,0,1,.118-.947c-.079.394.474.236.594.315.513-.592,1.974.079,2.289-.553M122.34,5.973c.514-.079.514.75,1.067.474a4.293,4.293,0,0,0,.473-.948c.4,0,.987.277,1.224-.276.158.078.4.236.553.039,0-.356-.118-.553.079-.948.118.159.355.119.276.4.869,1.383,2.686,0,3.871.079a1.365,1.365,0,0,0-.475.75c.592-.2,0,.869.671.711.2.039.277-.237.473-.237-.394.671.079,1.422.158,2.132-.947.474-1.381-1.264-2.013-.158,0,.2.078.869-.316.513a1.725,1.725,0,0,1-.04-.632c.238.158.316-.236.4-.355-.2-.157-.118-.355-.276-.632-.594.2-1.027-.672-1.7-.434-.237-.434-.75-.316-1.105-.553-.356.2-.04.869-.474.948-.672.2-1.776.434-2.25-.356-.278,0-.75-.039-.593-.513m-.829,5.607c.356-.157.869-.355,1.224,0,.039.079-.08,0-.08.079.357.079.04.356-.077.435-.474-.04-1.264.315-1.54-.277.552.434.039-.632.473-.237M118.392,3.13c-.079,0-.118.356.04.4.2-.039,0,.04-.04.079a1.007,1.007,0,0,0,1.224.118c.119-.2.276-.592.474-.355-.4.632.4,1.185.592,1.58-.355-.237-1.224-.237-1.343-.711-.552,0-1.185-.829-1.856-1.184-1.579-1.027.592.078.908.078m-1.144,10.346c-.235-.236-.5-.547-.869-.473.291-.2.673-.341.71-.75.253.169.676.407.987.276.359.541.787.042,1.147.474l-.08.355a1.617,1.617,0,0,0,.606.037c.022-.052.068-.089.184-.076a.467.467,0,0,1-.184.076c-.058.137.065.394-.29.279-.233.388-.91.055-.829.711-.434-.09-.833-.789-1.263-.236.285.362,1.345.159,1.144.868.642-.2.377.424.2.711-.5-.044-.967-.463-1.46-.158.365-.312-.2-.558-.512-.577-.053.015-.106.027-.155.042.044.143.08.418-.164.179,0-.108.07-.15.164-.179l-.005-.019a.294.294,0,0,1,.16-.023c.128-.034.251-.085.274-.252.092-.666-.769-.027-.828-1.5.367,0,.7.317,1.066.236m-1.422,11.807c1.295.329.475-1.633.987-2.014,2.274,2.276,1.771.11,2.212-.908l.158.08a9.74,9.74,0,0,1,1.461,4.3c-.556.188.168,1.1.671.79-.268.059.147.377-.2.4-.13-.338-.7-.456-.986-.632-.078.467-.663.476-1.027.434a1.915,1.915,0,0,0-1.778-.711l.2-.157c-.185-.247-.138-1.188-.382-1.106l-.565,1.224c-.247.048-1.006.116-.79-.355-.207-.424.035-1.228-.633-1.3-.006-.33-.879-.738-.4-.987.068.435.664.846,1.067.948m-.119,19.783c-.5-.08-.871-.83-1.422-.553-.756-.54-1.45-1.164-2.211-1.7-.026-.386,1.606-1.374,1.5-2.053.294-.176.953-.577,1.066-.908.1-.3-.669-.621-.2-.948-.886-.442-.067-1.09-.672-1.974l-.182,0c-.338-.036.24-.324.3-.353.367-.176.082.456.316.592l-.079.316c.741.534,1.922,6.091,1.659,6.793.5.051-.2.5-.08.789m.632,18.718c-.2-.481-.2-1.019-.4-1.5.208-.58.3.277.317.435-.015.018.09.886.078,1.066m0,4.3c-.553-1.461-1.185-2.882-1.817-4.344-.079-.592.711-.513.948-.908h.316a15.378,15.378,0,0,1,.553,5.251m-.157,4.5a10.527,10.527,0,0,0-.238-2.212c.158,0,.276.118.4.158a5.469,5.469,0,0,1,0,2.527c-.078-.2.157-.4-.157-.473m0,.947c-.04.238-.08.474-.119.711.039-.237.079-.473.119-.711m-.554-5.963c.474.672.2,1.659.554,2.369.079.2-.119.158-.119.276a12.716,12.716,0,0,1-.435-2.646m-.04,3.239c-.224-.225-.164-.735-.26-1.152a2.154,2.154,0,0,0-.095-.27,1.058,1.058,0,0,1,.095.27c.117.389.166.833.26,1.152m-2.33-26.181c.374.331.831.554,1.185.908-.131.463-1.566-.374-1.185-.908m1.106,17.533c.04.2-.2.118-.158.237-.671.158.356-1.185.158-.237m-1.658-16.348c.2-.315.75-.237.355.158-.4.079-.315.474-.79.394-.158-.632.711.237.434-.553m.118-7.423a.339.339,0,0,1,.1.068c.315.174.841.224.488.683-.04-.079.079-.277-.118-.277-.276-.039-.118.592-.474.237.034-.173.281-.466.1-.643a.6.6,0,0,1-.1-.068m1.54-2.093c-.186-.256.113-.485.079-.75a4.97,4.97,0,0,0,2.053.75c-.864,1.066-.919,2.546-1.816.237.068-.2-.174-.254-.316-.237m.119-5.252c-.085.1-.645.564-.08.434l-.159.2c-.257-.788-.705.48-1.184-.079.534.093-.05-.784-.079-.829.337-.308.528.312.829.355.164-.27,1.3-.826.673-.079m1.184,8.135c-.69-.793.759-.773,1.084-1.518.015-.128.035-.253.061-.377a.8.8,0,0,1-.061.377c-.212,1.788.6,3.938.337,5.743-1.421-.908-.828-2.725-1.421-4.225M114.285,18.1a1.578,1.578,0,0,0,.4-.157c-.262.393.534.131.671.474-.724-.173-1.27.678-1.857.236,1.176-.126-.193-1.168.79-.553m-.592,1.264c.121.677-.992.791-1.422.987-.355-.127-.2-.608-.593-.671.313-1.029,1,.326,1.106.237.3-.259.381-.658.908-.553m-1.462,5.725c0,.317-.79.2-1.066.08-.119-.2.039-.355.159-.513.355-.118.4.75.908.434M111.56,8.817c.118-.158.278,0,.355,0,.039.553-.592.079-.75.473-.119-.157.159-.473.4-.473m.118.513.119.553c-.212.534-.537.352-.909.079.249-.248.649-.275.79-.632m-.583,2.526c.21.005.408-.053.267-.314.028-.567.533.337.751-.118l-.473-.593.353-.118c-.631-.109.24-.523-.117-.75.365.249.591,1.267,1.185.987a1.863,1.863,0,0,1,0,.75l-.434.2c.33.449-1.046.264-1.185.237a.8.8,0,0,0-.346-.278,1.38,1.38,0,0,1-.285-.038.482.482,0,0,1,.285.038m-.719-2.526c-.08.355-.04.711-.237.948.157-.316-.474-.434-.238-.79-.75.237-1.185-.868-1.776-.2,0-.276-.316-.513,0-.711.316.4.908,0,1.105.513.435.078.671.316,1.146.236m-2.528-2.922c.238.592,2.448,1.027.712,1.619.117-.553-.435-.2-.593-.434.158-.434-.355-.869-.119-1.185m.869,11.373c.2-.2-.157-.315.2-.473.4-.237.515.513.711-.158.2,0,.592-.2.829,0,.2-.2.158-.908.592-.632-.039-.119-.158-.158-.117-.316.117,0,.157.039.157.158.474.078.829-.632,1.462-.474.039.237-.237.158-.316.237-.711,0-.671.79-1.3.948-.278.355.711.553.117.987-.117.316.594.908.079,1.106-.474-.237-.671-.908-.986-1.145v-.159c-.277-.355-1.225-.513-.869.237-1.106.317,1.462.632.276,1.5-.513.079-.118-.79-.711-.829-.473-.4.277-.513-.316-.671a4.637,4.637,0,0,1-1.1.079c.118-.119-.2-.711.118-.236.474.2.829-.4,1.184-.159m-1.462,4.581c-.618.156-1.03-.47-1.381-.868.485-.083.644-.637.948-.948-.006.7,1.2-.039,1.855.158-.8.573-1.946.1-1.422,1.658M105.6,11.107c-.55-.109-.638-.647-.869-1.066.417.392.877-.546,1.144-.829s-.257-.613.119-.908c.2.379-.018.814.315,1.145.176-.107.493-.351.4-.592l.355.632c-.3.637.572,1.087.356,1.738l.09.116c.376.487-.314-.229-.6-.037-.52.344-.43,1.014-.711,1.5l-.355.158c-.216-.43.679-.771.039-1.027-.293.248-1.023.639-.631,1.105.319.073-.009.51.236.632.622-.55.613-.122.238.079-.147.747,1.162.233.455.6l-.219.111a1.019,1.019,0,0,0,0,.75,1.686,1.686,0,0,0,0,.711s-.519-.68-.276-.474a4.258,4.258,0,0,1-.079-1.185c-.375-.147-.88-.032-1.027-.513.966-.721-.365-1.96,1.027-2.646m-.908,28.273c-.158,0-.4-.315-.671-.355.078-.632-1.066-.276-.4-.869.434-.04.908-.2,1.263.158a1.293,1.293,0,0,0-.2,1.066m-.434-30.84c.118.04,0,.119,0,.2-.236-.158-.672.355-.79-.118,0-.593.553-.159.79-.08M103.386,30.5c.8.851-.6.391-.08,1.066a.87.87,0,0,1,.633.276,1.165,1.165,0,0,1-.474.434c.231.366.732.011.829.435.235,1.015-.121-.083-.79.276l-.276.118c.272-.2-.152-.558-.316-.671l-.039-.2h.276L101.5,30.85h0l-.514-.435.518.434c.308-.086.641-.149.785-.473l-.093-.51c.4,1.7.644.04,1.2.628m-2.448-16.585c.4.158.789-.632.632.158-.435.157.236,0,.118.237,0,.434.236.632.277.947a2.148,2.148,0,0,0-1.343-.355c-.2-.237.2-.71.316-.987m-3.949-2.488c.2-.079.711.078.632-.316.434-.2.632.316,1.026.237.948.75-.907-.119-.789.75-.4.2-.434-.553-.908-.238-.039-.118-.118-.355.039-.434m.435,8.924a1.671,1.671,0,0,0,1.3-.868c-.864-1,2.608.229,3.159.118.382.174-.005.33,0,.592s1.166,1.147.236,1.343l-.4.04c-.361-.442.111-.905-.711-.988-.8-.08-1.274-.84-2.211-.434-.4.174-.122,1.152-.671.553-.485.073-.819-.429-1.3-.356.008-.219.432.023.592,0m3.356,5.805c-.276.435-.513-.474-.948-.553-.2.231-.123,0-.183-.064-.018,0-.035-.01-.054-.014a.05.05,0,0,1,.054.014,1.03,1.03,0,0,0,.5.064c0-.315.277-.355.553-.236-.118.276.2.553.079.79m-2.211,11.57c-.434.118-.632-.79-1.106-.276-.315-.04-.118-.356-.158-.513a.5.5,0,0,0,.473,0c0-.119.119-.158,0-.238.277.119.474.474.79.474.276-.2-.118-.355.04-.632.355.434-.238.75-.04,1.185m0-8.529a.9.9,0,0,1-.711-.357c.237-.276.394.159.632.238-.04.039.039.079.078.119m-1.343,26.22c0-.237-.394-.514-.118-.75a6.047,6.047,0,0,0,.711.592.3.3,0,0,1-.2-.079c-.316.277.119.355-.4.237M96.87,26.389c-.157.316.119.632.04.908a7.283,7.283,0,0,0-.712-.474c.317,0,.278-.711.671-.434M95.727,45.343c-.119.592.314,1.185-.238,1.658-.671-.078.159-.79-.394-.948a5.332,5.332,0,0,1,.633-.711M89.6,32a4.622,4.622,0,0,1-.434.632c-.553.118-.2-.553-.513-.671.276.158.711-.119.948.04M86.091,48.067c0-.473.473.474.948.277.118.2.592.356.356.711-.514-.4-1.027.4-1.58.04.118-.4-.237-.909.276-1.028m-.276-23.337c.276.118.474.157.632.434-.04.513-.355.079-.592,0-.079-.119-.237-.316-.039-.434m-.04,1.066a1.548,1.548,0,0,1,.4.316c-.2.2,0,.632-.4.671.277-.4-.355-.553,0-.987m-.04,31.078c-.177,1.037-1.3.637-2.013.79.171-.4-.661-.6-.277-.711a2.967,2.967,0,0,0,2.29-.079M82.616,34.365a1.609,1.609,0,0,1-1.58-.039c-.039-.237-.316-.474-.079-.632a.719.719,0,0,0,.79,0c.2-.4.159-.751.553-.948,0-.158-.158-.632.2-.711.473,0,0,.711.513.671a.951.951,0,0,0,.021-.556.533.533,0,0,1-.178-.353.925.925,0,0,1,.178.353c.355.325,1.1.278,1.006.871.158.119.434-.079.592.079-.276.04-.592.04-.711.355-.118-.473-.592.119-.948.04a2.042,2.042,0,0,1,.276.868c1.185.435-.355.277-.237.909-.908-.039.434-.948-.394-.909m-.237,20.18c.894.491.513-.678.987-.2-.291.144-.288.315,0,.473a1.27,1.27,0,0,1-.987-.276m.829,5.172c.3-.053.891-.072.592.435.148.508-1.294-.31-.592-.435m3.356,8.135c-.311.055-.6.192-.473.553-.154-.632-1.285.185-1.3.355-.288-.029.013-.333-.356-.355-.166-.01-.492.014-.474-.236.033-.461.992,0,.711-.633.32-.157.026-.575.237-.79.364,1.107.97-.551,1.343.632.068.219.484.153.315.474m-.078-12.084c-.316.079.039.434-.277.434-.237-.632.79-.632.829-.237.356.751.039.277-.356.118.119-.118-.118-.236-.2-.315M87.394,67.1c-.159-.159-.712-1.066-.159-.316.119-.079.434,0,.4.237-.079.04-.2,0-.236.079m.513-4.146c.119-.277.474-.948.671-.356-.2.119-.394.4-.671.356m2.883-22.39c-.437.192-.951.043-1.383.276-.363-.042-.705.144-1.066,0,.03-.236-.032-.582-.355-.4-.223.69-.528-.209-.829-.315a.539.539,0,0,1,.316-.356c-.28.6.358.216.2-.473-.426-.358-.243.634-.711.079.3-.117-.062-.4-.2-.474-.282.1.167-.255.2-.276l-.2-.553c.06-.256.377.092.473-.158.041.252.188.7.514.671.176-.278-.331-.506-.04-.75.143.106.448.219.434-.079.236.142.621.209.671-.158-.295-.066-.021-.447-.277-.553l.158-.711c.348.238,1.8-.325,1.185.553-.236-.135-.467.221-.553.4.188.4-.67.69-.2.908l.355.118a2.352,2.352,0,0,1,.4-1.066c.432,1.1,1.864.685,2.764.908-.556.987.9.927,1.106,1.618-.649.4-1.895-.709-1.737.593a.8.8,0,0,0-1.224.2m1.579,4.62c-.079.355-.316.04-.434-.079-.2-.711.948-.632.908-.237-.236.2-.118.277-.473.316m.473,6.674c-.239-.437.415-.447.553-.2a11.208,11.208,0,0,1,1.856.632c-.587-.041-.233.893-.908.473,1.344-.331-1.271-.487-1.5-.908m2.409,10.9c-.237.119-1.3,1.027-.79.2.394-.159.513-.632.711-.948-.434-.473.315-.236.276.04-.118.2-.473.593-.2.711m.2-12.518c.119-.394-.513-.869.2-1.026.394-.079.473.592.711.75-.552.119-.277.434-.908.276M96.87,61.06c-.079.039-.157.039-.2.118a1,1,0,0,1-.158-.671c.078.2.513.237.355.553m-.394-4.383c.237-.158-.2-.4.237-.356.434.237.869-.118,1.223.277-.592.119-1.066-.434-1.46.079M98.845,69.51c-.434-.04-.394,1.106-.75.355-.632-.355.473-.276.513-.75.316-.039.276.2.236.4m-.592-5.055c.394-.75-.079.553.553.4-.04.118-.04.237-.079.316-.236-.2-.315-.711-.474-.711m3.081-22.271a7.837,7.837,0,0,1-.473,1.342c-.766.325-1.177-1.353-1.975-.79l.158.475c-.339.037-.6-.262-.908-.356.5-.939-.915-.253-.948-1.066a6.923,6.923,0,0,0,1.855-.869c.378.239,1.576.682,1.974.356.453.419,1-.1,1.422.394.862.1,1.231-.6,1.9.276.131.175,1.6-.053.789.553-.255.192-1.467-.594-2.132-.829a.411.411,0,0,0-.157.514c-.5-.251-.983-.039-1.5,0m1.658,25.43a.174.174,0,0,1-.236-.079c-.04-.078.038-.078.079-.157-.474-.079-.079-.2.039-.355.474-.119.118.434.118.592m.553-.592c-.2.237.039-.237-.158-.237-.474,0-.513-.356-.79-.632.591-.2,1.934-.118.948.869M105.717,56.4c.177-.776-1.355-.406-1.7-.236l.157-.553c.7-.2,1.548-.3,1.936.473Zm.434,1.856c.434.039,1.264-.158,1.7.2-.594.236-1.145-.119-1.7-.2m1.658-.236c.08-.2.237-.08.434-.119a.23.23,0,0,1-.434.119m1.421-15.2c-.316.356-.316.277-.711.356-.2-.238-.236-.277-.078-.554-.237-.434-.908-.118-1.027-.631.394.434.711-.672.829.039.04.119.158.04.237.08-.2-.356.119-.159.277,0,.276-.238.434.434.552-.08.158,0,.356.237.474,0-.158-.434-.592-.118-.75-.276.315.04.829-.079,1.343-.039.117-.908,1.184.236,1.184-.869-.236-.158-.593.159-.829-.078a1,1,0,0,1,.157-.869,1.258,1.258,0,0,0,1.462-.157c.237,0,.435.276.632.039.158.593-.515.751-.434,1.383-.434.158-.474,1.264-.948.553-.355.2-.237.829-.868.553-.159.316-.514-.118-.514.316-.473-.276-.513.711-.987.237m4.739,24.957c.04.039.079.079.158.157.079.632-.79-.868-.158-.157m-3.593-3.515c-.192-.252-.868-.415-.514-.829.067-.625.91-.086.789-.829.252-.064.68.028.752-.316-.309-.029-.309-.326,0-.355l.237.394a.26.26,0,0,1,.394-.04c-.5.075.085.253.2.277.23-.088.642-.118.631.236-.436.111-.418.869-.513,1.224.462.062.819.762,1.343.355.951.747.829,2.249,1.5,3.2-1.691-.975-2.91-2.706-4.817-3.317m5.094,15.164a2.781,2.781,0,0,1-.948-1.62c.284-.446.219-1.989.829-2.843,0,1.142-.458,2.311-.513,3.474.348.551.834-3.031,1.066-3.515a24.269,24.269,0,0,1-.513,3.515c.455.222.363.665.079.988m.829-1.264c-.908.829.158-.592-.4-.632a10.761,10.761,0,0,1,.592-2.8h.159c-.316.75.118,1.974-.553,2.448-.355.474.434.553.2.987m.276-16.546c-.04-.118.394-.039.2.159-.04.236-.2-.079-.2-.159m.236,10.86a7.688,7.688,0,0,0-.157-1.935,3.41,3.41,0,0,1,.157,1.935m.671-6.437a1.645,1.645,0,0,1-.018-.188,4.1,4.1,0,0,1,.018-1.313,6.56,6.56,0,0,1-.018,1.313c.006.063.013.13.018.188m.079-1.58a3.161,3.161,0,0,1-.079-1.7c.339.175.156,1.376.079,1.7m-.04-5.963.513.039a20.1,20.1,0,0,1-.552,3.594,10.572,10.572,0,0,1-.2-2.093c.5-.1-.224-.294.2-.474a.413.413,0,0,0-.671-.157c-.283.249.238.4.238.592v1.579c-.4-.133-.335-.718-.79-.75.056-.307-.224-1.034.236-1.106,0-.486-.018-.728-.434-1.027.4-.183.747.253,1.185.118-.215-.463-.839-.527-1.146-.908-.046-.01-.955-.208-.637-.289l.242-.027.356.078c.3-.209-.307-.343-.158-.592.1.131.5.553.631.237-1.309-.987,1.621-.936.553-2.488a.825.825,0,0,1-.71-.078c.151-.449.6-.632.869-.987.345.074.053.637.552.513.247.207-.238.709.04.987.642-.007.174.594.394.869-.426.221-.275-.666-.671-.216l-.079.1-.4.158a1.577,1.577,0,0,1-.513.987c.259.511.907.654.947,1.343m.79,11.61c.157-.118-.079-.473.2-.473.079.078.079,1.026-.2.473m.552.948c-.157-.118.039-.315.08-.473.237.2-.08.315-.08.473m.276-12.32c-.315,0-.158.829-.354.473.039-.2.2-.4.078-.592-.356-.08-.513-.514-.672-.79.554-.473.357,1.066,1.185.632.435-.553.513.394.988.078.236.671-.593.671-.632,1.106-.08-.632-.594-.355-.594-.908m.514,15.44s.276.829-.079.316c-.119-.079-.04-.237.079-.316m.158,1.224c.118.039.355.79-.078.394-.159-.118,0-.236.078-.394m1.776,2.764c-.631,0-1.185.2-1.776.2.591-.355,1.106-.158,1.776-.2m-.276-15.045c-.434-.237.394-.632.039-1.027,0-.157.158-.394.237-.079-.237.316-.079.79-.276,1.106m1.658,3.4c-.592,0-.355,1.106-.671.593-.2-1.066.473-.277.907-.908.79-.158-.079.118-.236.315m.316.277c.315-.158.552-.474.908-.474a3.315,3.315,0,0,1-.908.474m.632-1.659c.552-.118,1.026.2,1.619.2a2.41,2.41,0,0,1-1.619-.2m1.855,1.027h0Zm.474-.039a.992.992,0,0,1,.829-.079c.079.276.4.04.553.158a2.723,2.723,0,0,1-1.382-.079m2.251-.079c.345.032.738.185,1.064.188.089-.012.172-.023.239-.03a.754.754,0,0,1-.239.03c-.429.059-1.031.139-1.064-.188m-.751-.552,2.37-.158a4.212,4.212,0,0,1-2.37.158m2.8.671c-.315.04.158,0,.2-.2.831.2.12.119-.2.2m1.817-1.185c-1.763.039-3.529.085-5.292.158-1.214.051-2.506-.725-3.672-.237a2.042,2.042,0,0,1-.474-.671c-.2.272-.353.692-.434.04-.039-.3.6-.62.079-.79l-.225.188c-.609.462-.007-.62-.146-1.007a1.079,1.079,0,0,1-.143-.128.179.179,0,0,1,.143.128c.956.743,3.814.556,4.793.227-.234.456.384.631.632.869.4-.246.919-.326,1.026-.869.293-.036.484-.432.79-.355h0a.377.377,0,0,1-.118-.2l.118.2c.315.28,1.072-.051,1.3.276.07-.262.751-.163.593-.434.34-.441,1.159.123.829-1.027.157.137.284-.122.316-.237.052.2.223.305.355.079l-.078-.553.355-.2v-.078c.328.27.962.426.829.631.29.427.193.527-.079.908.121.336-.427.746-.4,1.145.212.284.747.341.79.75-.436.674-1.407.577-1.9,1.185m2.013-31.156c.119-.316.553-.513.276-.869-.078-.079-.315,0-.236-.236,0-.75.513.039.553.2-.119.276.236.316.316.434.118.237.157.513.275.75-.355.237-.947-.04-1.184-.276M135.726,51.9l-.118-.158-.159.119.118.355a1.359,1.359,0,0,0-.355-.592c-.208.428-.754-.339-.394-.513l.158.276c.278-.14.491-.473.829-.474l.05-.237-.011.672c.228.032.224.43.475.355.35.484-.388.273-.594.2m.435-6.713c.276-.277-.236-.2.118-.473.079.079.355.276.2.473.013.079.124-.006.239-.122.468-.571.227-.228,0,0l0,0c.394.4-.2.159.079.632-.159-.434-.712.118-.632-.513m.829,5.765c.039.316.948.4.474.75.039.237-.158.593-.079.751-.632-.079.04-.987-.592-.948a.96.96,0,0,0,.2-.553M139,67.97c-.553.553-1.421.236-1.9.908.079.2-.355.04-.315-.158,0-.552,0-.947.632-.908.118-.237.553-.277.553-.513.434.315,1.066-.474,1.145.315h.158c-.158.356.079.277-.277.356m.79-15.836c-.377.18-.107-.33-.4-.276-.56.106.334.72-.236.75.023.163,0,.513-.238.238-.015-.049.023-.121.052-.174-.023.005-.063-.021-.13-.1l.152.039c-.019-.247-.42-1.061-.666-.631-.73.082-.181-.981-.356-1.343.4-.227.358.36.711.4.278-.4.75.857.85.156l.018-.235.158-.2c-.038.24.073.5.356.473-.645.222.229.669-.277.908m1.936,3.831c-.118-.474-.829-.315-1.185-.118.039-.159-.158-.394.158-.316.2-.158-.632-.435,0-.315-.316-.277.118-.356.237-.514.354.118.2,1.422.671.592.039-.078.118-.078.236-.078-.355.237.435.711-.118.75m.2-5.646c-.315-.237-.276.394-.276.592a.95.95,0,0,1-.277.356c-.157.671-.118.237,0-.04a.774.774,0,0,0-.552-1.027c-.4-.04-.276.474-.158.592.671.237.04.158-.158-.039.079-.356-.355-.4-.316-.79.592.316.316-.829,1.027-.632.157-.236,0-.316.315-.434.553.237-.237,1.145.356,1.145,0,.118.159.474.039.277M140.268,35.51c.006-.367.875-.518.435-.948.1-.508.734.07.908-.4l.236.159c-.468.212-.178.435-.355.79.182.178,1.4.384.949.948a7.419,7.419,0,0,1-2.173-.554m4.5,30.327c-.2-.118-.474-.2-.512-.394.354.2,1.025-.4.986.04-.2.078-.316.276-.474.355m6.673-1.342c-.118.316-.631.158-.83.158.079-.119-.078-.237-.156-.355-.632-.04-.988.513-1.659.434-.119-.159-.315-.434-.553-.316a.637.637,0,0,1-.711.316c0-.277.394-.356.315-.711.435.04.079-.829.633-.513.236-.079,0-.316.079-.434.868-.316.749,2.133,1.46.434.316,0,.513.04.631-.236a1.392,1.392,0,0,1,.829.434c-.592.473.79.829-.039.79m1.7-.711c.061.858-.259.481-.626.472a.885.885,0,0,1-.322.121.437.437,0,0,1,.322-.121c.181-.1.342-.238.468-.314.04-.474-.355-.276.119-.513a1.17,1.17,0,0,0,.631-.079c-.039.356-.513.118-.592.434m2.014,1.185c-.158,0-.316-.157-.435,0,.119.04.316.079.158.238-.079.039-.513-.08-.434.236-.1-.171-.165-.221-.2-.209l-.035.044c-.06.153,0,.623-.237.283.078-.086.156-.184.237-.283a.066.066,0,0,1,.035-.044,1.625,1.625,0,0,1,1.149-.738c.04.158-.315.276-.236.473m.2-1.027c.181-.036.262.191.335.29.013.008.02.016.02.026a.176.176,0,0,1-.02-.026c-.084-.048-.4-.049-.335-.29m1.066-7.305a.456.456,0,0,0-.276.513c-.233.07-.716-.347-.553.2-.226-.106-.365-.027-.237.237a1.5,1.5,0,0,0-1.383-.317l-.237-.2c.13-.174.987-.537.429-.7l-.232-.049c-.839-.038-1.485.257-2.251-.355-.112.747-.915-.116-1.027.158-1.048-.47-.647.992-1.382,1.185l.159.315c-.162.129-.379-.073-.474-.2l-.157.434c-.543-.272-.8,1.316-1.145,1.462-.152.064-.556,0-.513.316a1.042,1.042,0,0,1-.948-.711c.626-.032-.436-1.161-1.106-1.027l.1.149c.316.489-.62-.424-.616.326-.335.123-.645-.269-.987-.08.083.879-.958.156-1.1.159.03-.415.907.174.711-.237-.836.04-.345-.949-1.066-.908V57.15l.473-.276c-.235-.039-.373-.35-.434-.553.094-.054.367-.185.472-.085-.048-.2.256-.327.161-.547-.181,0-.482-.037-.553-.236.439-.29-.247-.807.158-.948,0,.516.453.723.671,1.145.2.385.1,1.565.593,1.5-.124-.577.164-1.212-.355-1.659.163-.14.35.006.434.159l.079-.514c.086.259.351.632.67.553.179.086.279-.08.277-.236.231.2.571.132.671.473.748.305.558-1.71,0-1.9l.316.04c.076.383.394.632.592.948a15.437,15.437,0,0,0-.4-1.54c.2.037.2-.186.159-.316-.218.134-.132-.517-.12-.592-.121-.272-.822-.6-.275-.869l-.4-.118c.314.042.35-.5.592.079.239-.272,1.308.272,1.145-.394a.677.677,0,0,1-.711.118c-.073-.378-.712-.016-.592-.513-.261-.257-.745-.411-.474-.869-.762-.31-.106.42-.434.75a1.727,1.727,0,0,0-1.421-.908c-.441-.02-.075.429-.317.592.384.346.221.859.317,1.3-.384.158-.449-.369-.592-.592l.039-.2c-.018.123.034.3.2.237.46-.181-.549-.882-.118-1.382l-.237-.277c-.1.244-.379.65-.592.237.159-.419-.358-1.163.118-1.342.282.094.519.274.79.394l.039-.434c.033.243.071.548.316.671.076-.247.447-.35.671-.4.063.365.241.025.237.4.42-.466.492.82,1.145.315.1.021.289.126.039.158-.132.29.222.3.278.553a.54.54,0,0,1,.276-.4c.154.247.534.886.829.948.333.068.328-.391.277-.592.219.154.956.735,1.225.513-.253.234,1.52.049,1.7-.039l.013.1c.071.322.361-.2.42.02.388.042.948.08,1.106.513-.146.308,0-.13-.236-.039v.513a11.663,11.663,0,0,0-1.145-.4c-.271.377.5.212.078.592l-.315-.158c-.03.282-.537.161-.751.2.149.21.516.238.751.236a1.949,1.949,0,0,0,.237,1.027c.692-.235.426,1.022.67,1.343a.742.742,0,0,1,.592.2c.16.552.91.644,1.027,1.224,0-1.114.723.015,1.106-.2.025-.161.145-.444.355-.315.008.054.14.769.276.474-.049-.231-.117-.881.317-.671.134.252.868.48.2.711l.592.04c0-.307.461-.406.632-.2.425.522.6-.32.789.158.253.125.56.014.83.079-.458.351-1.151-.155-1.185.671m.987-8.1a2,2,0,0,1-.513-.632c-.278.276-.711.276-.594.829a.491.491,0,0,0,.159.317c.75-.671.04.276-.316.276-.435.119.237-.356-.4-.316-.237-.75.632-.671.671-1.3.671.355.514-.317.829-.592-.434-.356,0-.751-.394-.987a.514.514,0,0,1,.434-.554c.592.158.276,1.343,1.144.711.317,0-.117.276-.236.237-.238,0-1.659-.119-.908.592.276.236.986.632.789,1.145-.236.513-.394-.159-.671.276m4.146,18.915c.006.5-.723.3-.986.553.191.939-.814.123-.435.948-.625.1.109.755-.632.75.079.692-.563.1-.711-.078-.26.185-.562.053-.83-.04-.346-.565.938-.537.515-.908.384-.1.255-.549.75-.474.113-.143.369-.333.513-.118,1.321-.4-.994-.713.356-.987.3.138.2.838.71.434-.051.3.348.149.474.079-.412-.4.293-.053.316-.513.015-.274-.492-.4-.277-.553,0,.521,1.019.407.237.908m8.649-5.371c-.118.2-.355.04-.513.2.039-.276.276-.276.4-.513.158,0,.118.2.118.315m1.145-1.264c-.513.2-.513.079-.552-.355.236.08.749-.158.552.355m.4-2.527-.474.237c.078.075.226.31,0,.315-.365-.286.181-.6.079-.947.48-.07.632-1.13,1.106-.869-.076.9-1.276.747-.711,1.263m7.621,8.451c-.119-.351.328-.506.553-.671.374.25.259.787.435,1.145-.635.34-.437-.513-.987-.474" transform="translate(-14.07 4.5)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_6)">
+      <path id="Path_6-2" data-name="Path 6" d="M183.289,120.821c-.238-.017-.5-.037-.787-.059.265.03.528.052.787.059" transform="translate(-59.63 -39.92)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_7)">
+      <path id="Path_7-2" data-name="Path 7" d="M174.361,119.827c-2.927-.5-5.745-.35-8.648-.75.394.126,7.086.788,10.613,1.065-.708-.081-1.412-.22-1.965-.315" transform="translate(-53.46 -39.3)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_8)">
+      <path id="Path_8-2" data-name="Path 8" d="M185.061,120.813l.119-.236a3.868,3.868,0,0,1-1.434.176c.7.05,1.182.074,1.315.06" transform="translate(-60.09 -39.85)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_9)">
+      <path id="Path_9-2" data-name="Path 9" d="M185.113,123.415l.355-.315c-3.342-.431-6.624.546-9.951.631.827-.161,3.629-.793,3.95-1.5-.911-.685-8.294.469-10.741-.4a2.311,2.311,0,0,1,1.106-.355,2.082,2.082,0,0,0-1.619.4c1.646,1.188,8.458-.1,10.977.473-.238.5-3.087,1.042-3.673.987.236-1.007-.942-.15-1.105-.039l-.04-.237c-.308-.279-.4.31-.394.473l-.513-.513-.2.394c-.582,1.147.063-.5-.592-.394-.007.515-.089,1.4.4,1.738l.4-.554c3.5-.315,6.979-.987,10.5-.948-.454.309.4.222.434.514,3.017.126,6-.543,9-.711-2.779-.217-5.522.745-8.293.355" transform="translate(-54.38 -40.16)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_10)">
+      <path id="Path_10-2" data-name="Path 10" d="M111.078,125.266c.09.006.18.016.271.025-.218-.051-.439-.092-.66-.125.1.03.231.063.389.1" transform="translate(-33.22 -41.54)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_11)">
+      <path id="Path_11-2" data-name="Path 11" d="M127.772,120.39a17.507,17.507,0,0,0-2.172.592c-.513-.118-1.935.553-1.3-.355.711.158.592-.671,1.066-.829.159.276-.355.4.039.632.159,0,.317-.039.357-.2-.278-.276.158-.632-.159-.948-.473,0-.592.237-.711.632-.513.237-.079-.75-.118-1.105-.829-.4-.513.948-.79,1.224-.434-.4-.236-1.185-.948-1.382-.157-.2.08-.513-.236-.513.08,1.105.751,2.013.908,3a59.984,59.984,0,0,1-7.107.474,6.619,6.619,0,0,0-1.974-.513c-.158-.2.2-.672-.118-.632-.317.158-.238.869-.159,1.224.435.277.04,1.618.909,1.106.039.079.118.276-.04.276a22.68,22.68,0,0,1-3.481-.37,6.787,6.787,0,0,1,1.23.41c3.316.711,6.515-.671,9.951-.434a.66.66,0,0,0,.158-.277c-1.778-.118-3.554-.434-5.213-.711a67.586,67.586,0,0,0,9-.751,6,6,0,0,0,.908-.553M114.977,122.4c-.157-.2-.079-.513-.236-.75a3.329,3.329,0,0,1,.592.158,1.332,1.332,0,0,0-.356.592m4.068-.236a9.14,9.14,0,0,1,.987.118c.158.2.513-.04.632.157a42.654,42.654,0,0,1-5.095.592c-.355-2.369,2.33-.711,3.476-.868" transform="translate(-33.6 -38.96)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_12)">
+      <path id="Path_12-2" data-name="Path 12" d="M107.513,124.2c-.119-.04.039-.237-.119-.158-3.159.869-5.884-.671-9.082.04v.157c2.436.791,5.227.064,7.824.453-1.243-.363,1.158-.31,1.377-.492m-7.385.08c.4-.128.829.035,1.224-.119.45.251,1.276.082,1.816.158a6.914,6.914,0,0,1-3.041-.039" transform="translate(-28.66 -41.07)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_13)">
+      <path id="Path_13-2" data-name="Path 13" d="M161.153,118.951c.774.956-.4,3.92.435,3.515.221-.446.245-.963.434-1.422l-.049-.111c-.171-.334-.145.446-.385.111.151-.586-.119-1.259.04-1.659-.075-.182-.243-.461-.475-.434" transform="translate(-51.78 -39.25)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_14)">
+      <path id="Path_14-2" data-name="Path 14" d="M163.182,121.807c-.192-.544.325-1.454-.2-1.856.063.335-.356,2.69.316,2.33.2-.348.594-.7.473-1.145-.29.114-.284.673-.592.671" transform="translate(-52.43 -39.62)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_15)">
+      <path id="Path_15-2" data-name="Path 15" d="M130.977,192.724l.969-.021c.232.386.5.755.5.8-.023.846,0,2.261,0,3.107v.576h2.551s-.027-.658-.009-.547c.1.08.364.361.44.433a19.976,19.976,0,0,0,5.036,3.509,18.337,18.337,0,0,0,7.8,1.863,16.234,16.234,0,0,0,7.023-1.709,19.65,19.65,0,0,0,4.91-3.456l.067-.067c.2.019.916.011,1.175.011.01-.365.027-.69.026-1.015,0-.245.006-.335.006-.335a15.235,15.235,0,0,0,2.5-4.609c.018.081.119-.392.119-.392,0,.206.029.424.029.558,0,1.2-.008,2.979.006,4.175a1.606,1.606,0,0,1-.218.271,24.624,24.624,0,0,1-14.694,8.564,20.316,20.316,0,0,1-10.479-1.233,20.566,20.566,0,0,1-11.075-9.795c-.078-.146-.156-.294-.226-.444a.8.8,0,0,1-.127-.263l1.407,0a8.189,8.189,0,0,0,.034-2.508c-.771,0-1.616.021-2.419.021a19.642,19.642,0,0,1-.939-5.867c.124.155.233.215.276.283a7.018,7.018,0,0,0,3.726,2.969,2.021,2.021,0,0,1,.425.2s.092.314.159.521c.219.682.491,1.393.774,2.051.179.416.217.539.215.473,0,0,.026,1.292.021,1.877" transform="translate(-38.62 -63.31)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_16)">
+      <path id="Path_16-2" data-name="Path 16" d="M146.558,145.708c-.262.058-.582.122-.845.2a13.919,13.919,0,0,0-4.5,2.173l-.389.282s-.255-.114-.406-.183c-.5-.23-1.058-.4-1.629-.606a22.184,22.184,0,0,1,2.756-1.859c-.16-.2-.331-.377-.466-.547a7.239,7.239,0,0,1-1.661-3.94,6.322,6.322,0,0,1,.81-3.613,8.533,8.533,0,0,1,2.369-2.653,12.285,12.285,0,0,1,5.977-2.448,7.481,7.481,0,0,1,4.023.714,17.321,17.321,0,0,1,2.273,1.322c.008-.375-.016-.829-.013-1.2s.013-.832.013-1.263h1.309v14.626h-1.309c0-.233.005-.649,0-.846.023-1.524-.063-2.845-.15-4.351a15.793,15.793,0,0,0-.358-2.565,6.307,6.307,0,0,0-2.268-3.63,4.671,4.671,0,0,0-4.4-.937,6.757,6.757,0,0,0-2.446,1.235,4.484,4.484,0,0,0-1.406,5.36,6.42,6.42,0,0,0,2.274,2.855c.181.132.443.339.443.339a5.087,5.087,0,0,1,0,.574c-.031.306,0,.644,0,.966" transform="translate(-43.55 -44.09)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_17)">
+      <path id="Path_17-2" data-name="Path 17" d="M160.931,156.759v3.5c-.215.031-.427,0-.639.033a9.546,9.546,0,0,0-3.952,1.7,14.022,14.022,0,0,0-5.469,8.85,9.2,9.2,0,0,0,4.1,9.523c.376.261.508.333.524.972-.045.807-.018,1.618-.024,2.427a.554.554,0,0,1-.007.221,3.085,3.085,0,0,1-.418,0c-.381-.061-.895-.163-1.268-.255a6.3,6.3,0,0,1-.722-.249c-.174-.193-.132-.668-.169-.969a2.74,2.74,0,0,0-2.853-2.642c-.31-.014-.621,0-.957,0a9.341,9.341,0,0,1-1.239-3.27,15.563,15.563,0,0,1-.232-2.41c-.011-.505.05-1.163.07-1.672a15.966,15.966,0,0,1,4.162-8.708,30.763,30.763,0,0,1,6.93-5.775c.6-.387,1.223-.75,1.838-1.12a3.471,3.471,0,0,1,.328-.152" transform="translate(-46.79 -53.16)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_18)">
+      <path id="Path_18-2" data-name="Path 18" d="M186.617,167.746c.375.595.865,1.233,1.161,1.8,0,0-.061.387-.084.637a12.09,12.09,0,0,0,.7,5.643c.235.6.57,1.152.845,1.733a1.782,1.782,0,0,1,.238.635,17.616,17.616,0,0,1-1.092,5.629.424.424,0,0,1-.046.13h-2.888a20.047,20.047,0,0,0-2.53-14.876,13.289,13.289,0,0,0,3.693-1.328" transform="translate(-59.79 -57.2)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_19)">
+      <path id="Path_19-2" data-name="Path 19" d="M194.568,144.92a16.5,16.5,0,0,0-1.515-3.077c.29-.182.55-.32.781-.5a13.936,13.936,0,0,0,1.975-1.477,4.437,4.437,0,0,0,.863-1.219.848.848,0,0,0-.441-1.2c-.059-.041-.117-.085-.171-.125,0-.43.02-.913.02-1.36a4.181,4.181,0,0,1,1.906.254,1.981,1.981,0,0,1,1.242,2.188,5.9,5.9,0,0,1-.532,1.986,11.437,11.437,0,0,1-3.905,4.409c-.025.018-.21.149-.221.118" transform="translate(-63.51 -45.51)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_20)">
+      <path id="Path_20-2" data-name="Path 20" d="M134.78,162.954a17.664,17.664,0,0,0-2.113,3.689,3.17,3.17,0,0,1-1.2-.717,1.589,1.589,0,0,1-.247-1.916,1.943,1.943,0,0,1,1.827-1.078,7.528,7.528,0,0,1,1.729.022" transform="translate(-40.69 -55.42)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_21)">
+      <path id="Path_21-2" data-name="Path 21" d="M126.577,173.538l2.861,1.437c-.055.486-.119,1.044-.184,1.615h-3.422a22.823,22.823,0,0,1,.745-3.051" transform="translate(-38.79 -59.33)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_22)">
+      <path id="Path_22-2" data-name="Path 22" d="M183.924,151.976c-2.611,1.2-5.376,1.881-8.04,3-.068,0-.067.1-.068,0,0-.938.018-2.249,0-3.187-.006-.3,0-.4,0-.4,2.049-.978,4.368-1.948,6.307-2.72a.423.423,0,0,1,.538.109,4.553,4.553,0,0,1,1.263,3.193" transform="translate(-57.17 -50.17)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_23)">
+      <path id="Path_23-2" data-name="Path 23" d="M180.293,161.347a11.571,11.571,0,0,1-4.41.524v-2.594a18.35,18.35,0,0,1,4.41,2.07" transform="translate(-57.2 -54.09)" fill="#dcb584"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_24)">
+      <path id="Path_24-2" data-name="Path 24" d="M114.154,199.165H112.39l-.282,1.054h-1.3l1.851-5.562,1.264-.145,1.883,5.634-1.336.145Zm-.894-3.195-.62,2.278H113.9Z" transform="translate(-33.26 -67.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_25)">
+      <path id="Path_25-2" data-name="Path 25" d="M124.57,200.262v-4.548h-1.457v-1.086h4.146v1.086H125.8v4.548Z" transform="translate(-37.79 -67.09)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_26)">
+      <path id="Path_26-2" data-name="Path 26" d="M136.763,200.262v-4.548h-1.457v-1.086h4.146v1.086h-1.457v4.548Z" transform="translate(-42.27 -67.09)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_27)">
+      <path id="Path_27-2" data-name="Path 27" d="M147.271,197.389c0-1.988.684-2.914,2.423-2.914s2.422.925,2.422,2.914-.684,2.914-2.422,2.914-2.423-.925-2.423-2.914m3.606,0c0-1.143-.185-1.835-1.167-1.835-1.014,0-1.2.692-1.2,1.835s.185,1.835,1.2,1.835c.982,0,1.167-.692,1.167-1.835" transform="translate(-46.67 -67.04)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_28)">
+      <path id="Path_28-2" data-name="Path 28" d="M163.278,198.343H162.4v1.867h-1.231V194.7a8.6,8.6,0,0,1,1.835-.217c1.336,0,2.4.475,2.4,2a1.616,1.616,0,0,1-.989,1.642l1.231,2-1.352.169Zm-.032-.925a.826.826,0,0,0,.918-.91c0-.709-.467-.942-1.087-.942a3.246,3.246,0,0,0-.676.08v1.771Z" transform="translate(-51.78 -67.04)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_29)">
+      <path id="Path_29-2" data-name="Path 29" d="M177.347,200.219l-1.392-2.543a12.178,12.178,0,0,1-.772-1.522c.08.789.08,1.642.08,2.4v1.666h-1.176V194.73l1.417-.218,1.231,2.278c.354.66.66,1.207.942,1.819a17.856,17.856,0,0,1-.145-2.552v-1.472h1.175v5.634Z" transform="translate(-56.54 -67.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_30)">
+      <path id="Path_30-2" data-name="Path 30" d="M187.8,200.262v-5.634h3.646v1.086h-2.415v1.1h1.956l-.088.974h-1.867v1.384h2.415v1.087Z" transform="translate(-61.58 -67.09)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_31)">
+      <path id="Path_31-2" data-name="Path 31" d="M201.049,200.219v-2.06l-1.876-3.437,1.465-.21,1.046,2.552,1.095-2.479H204.2l-1.915,3.574v2.06Z" transform="translate(-65.76 -67.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_32)">
+      <path id="Path_32-2" data-name="Path 32" d="M214.135,199.223c.491,0,.886-.153.886-.6,0-.475-.571-.547-1.127-.692-.8-.217-1.723-.523-1.723-1.755a1.688,1.688,0,0,1,1.916-1.7,3.783,3.783,0,0,1,1.908.443l-.362.965a3.125,3.125,0,0,0-1.385-.33c-.482,0-.869.153-.869.572,0,.539.612.563.991.692.8.217,1.9.491,1.9,1.715,0,1.07-.7,1.771-2.053,1.771a4.13,4.13,0,0,1-2.149-.523l.386-.958a3.577,3.577,0,0,0,1.682.4" transform="translate(-70.51 -67.04)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_33)">
+      <path id="Path_33-2" data-name="Path 33" d="M235,199.165H233.24l-.281,1.054h-1.3l1.851-5.562,1.264-.145,1.884,5.634-1.336.145Zm-.894-3.195-.62,2.278h1.256Z" transform="translate(-77.71 -67.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_34)">
+      <path id="Path_34-2" data-name="Path 34" d="M245.42,200.262v-4.548h-1.457v-1.086h4.146v1.086h-1.457v4.548Z" transform="translate(-82.24 -67.09)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_35)">
+      <path id="Path_35-2" data-name="Path 35" d="M264.047,200.262v-5.634h1.231v4.547h2.52v1.087Z" transform="translate(-89.63 -67.09)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_36)">
+      <path id="Path_36-2" data-name="Path 36" d="M278.736,199.165h-1.763l-.281,1.054h-1.3l1.851-5.562,1.264-.145,1.883,5.634-1.336.145Zm-.894-3.195-.62,2.278h1.256Z" transform="translate(-93.8 -67.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_37)">
+      <path id="Path_37-2" data-name="Path 37" d="M291.411,196.292l-.789,3.928h-1.4l-1.489-5.521,1.36-.185.861,4.3.829-4.145,1.207-.153.917,4.3.773-4.3,1.3.129-1.408,5.578h-1.344Z" transform="translate(-98.34 -67.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_38)">
+      <path id="Path_38-2" data-name="Path 38" d="M66.032,170.635a21.726,21.726,0,0,1-.687-6.444v-23.06l2.678-.362v23.567a25.8,25.8,0,0,0,.58,6.3Z" transform="translate(-16.54 -47.28)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_39)">
+      <path id="Path_39-2" data-name="Path 39" d="M77.4,170.635a21.726,21.726,0,0,1-.687-6.444v-23.06l2.678-.362v23.567a25.8,25.8,0,0,0,.58,6.3Z" transform="translate(-20.72 -47.28)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_40)">
+      <path id="Path_40-2" data-name="Path 40" d="M132.266,175.012c2.767-.066,3.674-1.1,3.674-2.9,0-1.991-1.342-2.426-4.371-3.258-3.337-.869-6.443-1.846-6.443-6.009,0-3.512,2.914-5.068,6.481-5.068,2.186,0,6.3.893,6.6,5.359h-2.824c.052-2.427-1.739-3.043-3.541-3.043-2.262,0-3.95.434-3.95,2.9,0,2.027,1.955,2.643,4.448,3.294,3.03.8,6.366,1.593,6.366,5.539,0,3.982-2.608,5.5-6.787,5.5a6.351,6.351,0,0,1-6.472-5.567l2.656.036c.317,1.7,1.3,3.287,4.168,3.218" transform="translate(-38.53 -53.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_41)">
+      <path id="Path_41-2" data-name="Path 41" d="M55.558,177.144a21.725,21.725,0,0,1-.688-6.444V158.826l2.678-.362v12.381a25.832,25.832,0,0,0,.58,6.3Z" transform="translate(-12.68 -53.79)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_42)">
+      <path id="Path_42-2" data-name="Path 42" d="M55.916,152.021a1.846,1.846,0,1,1,0-3.692,1.846,1.846,0,1,1,0,3.692" transform="translate(-12.39 -50.06)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_43)">
+      <path id="Path_43-2" data-name="Path 43" d="M88.094,177.144a21.725,21.725,0,0,1-.688-6.444V158.826l2.678-.362v12.381a25.832,25.832,0,0,0,.58,6.3Z" transform="translate(-24.65 -53.79)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_44)">
+      <path id="Path_44-2" data-name="Path 44" d="M88.451,152.021a1.846,1.846,0,1,1,0-3.692,1.846,1.846,0,1,1,0,3.692" transform="translate(-24.36 -50.06)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_45)">
+      <path id="Path_45-2" data-name="Path 45" d="M98.381,158.064c.342-.446.929,3.337.929,3.337,1.542-2.727,3.862-2.876,6.039-2.876,4.484,0,7.508,3.461,7.508,9.077,0,5.815-3.118,9.264-7.6,9.264a6.955,6.955,0,0,1-3.538-.963c-.981-.561-1.472-.48-2.347-1.8v12.7H96.708V163.07s-.172-3.971-.508-4.473Zm.989,9.979c0,4.051,2.137,6.738,5.325,6.738s5.324-2.848,5.324-7.059a7.87,7.87,0,0,0-1.4-5.013,4.948,4.948,0,0,0-3.818-1.926c-3.223,0-5.43,2.928-5.43,7.26" transform="translate(-27.89 -53.63)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_46)">
+      <path id="Path_46-2" data-name="Path 46" d="M39.067,170.635V160.354c0-3.728-1.231-5.357-4.634-5.357a7.47,7.47,0,0,0-5.177,2.316v13.322h-2.8l.12-29.5,2.679-.362v14.3a8.712,8.712,0,0,1,5.865-2.317c4.055,0,6.335,1.991,6.335,6.48v11.4Z" transform="translate(-2.23 -47.28)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Rectangle_2)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="2.606" height="29.684" transform="translate(7.5 93.67)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_47)">
+      <path id="Path_47-2" data-name="Path 47" d="M0,141.056H5.43c4.887,0,9.919,2.1,9.919,8.375,0,5.239-3.294,9.178-10.353,9.178H0Zm4.959,15.067c4.778,0,7.674-2.448,7.674-6.654,0-3.978-2.969-5.928-6.552-5.928H2.606v12.582Z" transform="translate(7.5 -47.39)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_48)">
+      <path id="Path_48-2" data-name="Path 48" d="M285.848,175.012c2.767-.066,3.674-1.1,3.674-2.9,0-1.991-1.342-2.426-4.371-3.258-3.336-.869-6.443-1.846-6.443-6.009,0-3.512,2.914-5.068,6.481-5.068,2.186,0,6.3.893,6.6,5.359H288.96c.052-2.427-1.739-3.043-3.541-3.043-2.263,0-3.95.434-3.95,2.9,0,2.027,1.955,2.643,4.448,3.294,3.03.8,6.366,1.593,6.366,5.539,0,3.982-2.608,5.5-6.787,5.5a6.351,6.351,0,0,1-6.472-5.567l2.656.036c.317,1.7,1.3,3.287,4.168,3.218" transform="translate(-95.02 -53.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_49)">
+      <path id="Path_49-2" data-name="Path 49" d="M221.263,164.707v-7.419h-3.185v-2.281h3.185v-5.683l2.678-.362v6.045h4.163l-.254,2.281h-3.91v8.179c0,3.186.036,5,2.353,7.2l-1.809,1.52c-3.005-2.389-3.222-5.394-3.222-9.484" transform="translate(-72.72 -50.29)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_50)">
+      <path id="Path_50-2" data-name="Path 50" d="M263.416,176.891V164.982a26.769,26.769,0,0,0-.652-6.48l2.245-.507a20.994,20.994,0,0,1,.869,3.222c1.013-2.063,2.715-3.222,5.611-3.439l.362,2.9a5.612,5.612,0,0,0-5.756,3.982v12.235Z" transform="translate(-89.16 -53.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_51)">
+      <path id="Path_51-2" data-name="Path 51" d="M207.745,174.619c-1.132,1.659-3.714,3.016-7.074,3.016-5.058,0-8.772-3.807-8.772-9.462s3.431-9.651,8.666-9.651c5.27,0,7.676,4.449,7.676,9.048v.678H194.269c0,4.486,2.759,7.239,6.9,7.239a6.977,6.977,0,0,0,5.483-2.376Zm-1.91-8.369c-.283-3.016-2.052-5.579-5.377-5.579a5.983,5.983,0,0,0-6.084,5.579Z" transform="translate(-63.09 -53.81)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_52)">
+      <path id="Path_52-2" data-name="Path 52" d="M250.4,174.619c-1.132,1.659-3.714,3.016-7.074,3.016-5.058,0-8.772-3.807-8.772-9.462s3.431-9.651,8.666-9.651c5.27,0,7.676,4.449,7.676,9.048v.678H236.923c0,4.486,2.759,7.239,6.9,7.239a6.977,6.977,0,0,0,5.483-2.376Zm-1.91-8.369c-.283-3.016-2.052-5.579-5.377-5.579a5.983,5.983,0,0,0-6.084,5.579Z" transform="translate(-78.78 -53.81)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Rectangle_3)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="2.606" height="29.684" transform="translate(115.12 93.67)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_53)">
+      <path id="Path_53-2" data-name="Path 53" d="M170.236,141.056h5.43c4.887,0,9.919,2.1,9.919,8.375,0,5.239-3.294,9.178-10.353,9.178h-5Zm4.959,15.067c4.778,0,7.674-2.448,7.674-6.654,0-3.978-2.969-5.928-6.552-5.928h-3.475v12.582Z" transform="translate(-55.12 -47.39)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -7.5, -4.5)" filter="url(#Path_54)">
+      <path id="Path_54-2" data-name="Path 54" d="M302.083,161.287a2.322,2.322,0,0,1,.084-.625,2.431,2.431,0,0,1,.236-.561,2.344,2.344,0,0,1,.845-.845,2.435,2.435,0,0,1,.561-.236,2.352,2.352,0,0,1,1.251,0,2.435,2.435,0,0,1,.561.236,2.345,2.345,0,0,1,.845.845,2.43,2.43,0,0,1,.236.561,2.367,2.367,0,0,1,0,1.25,2.43,2.43,0,0,1-.236.561,2.285,2.285,0,0,1-.367.475,2.376,2.376,0,0,1-.477.367,2.3,2.3,0,0,1-.561.236,2.386,2.386,0,0,1-1.251,0,2.3,2.3,0,0,1-.561-.236,2.378,2.378,0,0,1-.477-.367,2.288,2.288,0,0,1-.367-.475,2.432,2.432,0,0,1-.236-.561,2.322,2.322,0,0,1-.084-.625m.341,0a1.958,1.958,0,0,0,.158.782,2.019,2.019,0,0,0,1.071,1.07,2.012,2.012,0,0,0,1.563,0,2.019,2.019,0,0,0,1.071-1.07,2.014,2.014,0,0,0,0-1.564,2.019,2.019,0,0,0-1.071-1.07,2.012,2.012,0,0,0-1.563,0,2.019,2.019,0,0,0-1.071,1.07,1.958,1.958,0,0,0-.158.782m2.927-.569a.781.781,0,0,1-.042.267.726.726,0,0,1-.113.206.769.769,0,0,1-.159.152,1.036,1.036,0,0,1-.186.1l.375.616q.071.116.138.226c.043.074.082.14.117.2l.083.141.031.053h-.559l-.644-1.1h-.3v1.1H303.6v-2.792h.728a1.2,1.2,0,0,1,.772.2.763.763,0,0,1,.247.625m-1.257.453h.225a.6.6,0,0,0,.408-.113.423.423,0,0,0,.124-.328.372.372,0,0,0-.13-.324.72.72,0,0,0-.408-.092h-.219Z" transform="translate(-103.62 -53.96)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
